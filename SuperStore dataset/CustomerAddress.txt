@@ -1,0 +1,1591 @@
+LocationID	Customer ID	City	State	Country	PostalCode	Region
+1	TB-11280	Constantine	Constantine	Algeria		Africa
+2	JH-15985	Wagga Wagga	New South Wales	Australia		Oceania
+3	AT-735	Budapest	Budapest	Hungary		EMEA
+4	EM-14140	Stockholm	Stockholm	Sweden		North
+5	PO-18865	Dhaka	Dhaka	Bangladesh		Central Asia
+6	LC-17050	Mission Viejo	California	United States	92691	West
+7	DK-3150	Luanda	Luanda	Angola		Africa
+8	SP-20650	Yingcheng	Hubei	China		North Asia
+9	DK-13150	Chongqing	Chongqing	China		North Asia
+10	DH-13075	San Miguelito	Panama	Panama		Central
+11	PO-8850	Mashhad	Razavi Khorasan	Iran		EMEA
+12	GH-14485	La Rochelle	Poitou-Charentes	France		Central
+13	RR-19315	Parma	Emilia-Romagna	Italy		South
+14	IM-15055	Halle	North Rhine-Westphalia	Germany		Central
+15	TP-11415	Toronto	Ontario	Canada		Canada
+16	TS-21370	Farnborough	England	United Kingdom		North
+17	RD-9900	Vinnytsya	Vinnytsya	Ukraine		EMEA
+18	TB-21400	Berlin	Berlin	Germany		Central
+19	VF-21715	Elmhurst	Illinois	United States	60126	Central
+20	KH-16360	Adelaide	South Australia	Australia		Oceania
+21	DB-13060	Seattle	Washington	United States	98115	West
+22	GW-14605	Houston	Texas	United States	77036	Central
+23	SC-20380	El Paso	Texas	United States	79907	Central
+24	BS-1800	Kherson	Kherson	Ukraine		EMEA
+25	CM-12235	Colmar	Alsace	France		Central
+26	RF-19345	Handa	Aichi	Japan		North Asia
+27	LH-17155	Palembang	Sumatera Selatan	Indonesia		Southeast Asia
+28	LO-17170	Berlin	Berlin	Germany		Central
+29	EL-13735	Bochum	North Rhine-Westphalia	Germany		Central
+30	BD-11620	Melbourne	Victoria	Australia		Oceania
+31	JF-15490	Rome	Lazio	Italy		South
+32	EH-3765	Kano	Kano	Nigeria		Africa
+33	HR-14770	New York City	New York	United States	10035	East
+34	AS-10045	Rome	Lazio	Italy		South
+35	BP-11230	Treviso	Veneto	Italy		South
+36	RP-19270	Aew?l-li	Jeju	South Korea		North Asia
+37	JB-15400	Lima	Lima (city)	Peru		South
+38	PA-19060	Manila	National Capital	Philippines		Southeast Asia
+39	VP-21760	Arraiján	Panama	Panama		Central
+40	LS-17245	Bogotá	Bogota	Colombia		South
+41	KM-16720	Vallejo	California	United States	94591	West
+42	KH-16330	Revere	Massachusetts	United States	2151	East
+43	AB-10060	Denpasar	Bali	Indonesia		Southeast Asia
+44	MH-17620	Cork	Cork	Ireland		North
+45	DW-13480	Lakeville	Minnesota	United States	55044	Central
+46	LT-17110	Little Rock	Arkansas	United States	72209	South
+47	MC-18130	Warrington	England	United Kingdom		North
+48	YS-21880	Matagalpa	Matagalpa	Nicaragua		Central
+49	MM-18280	Zapopan	Jalisco	Mexico		North
+50	NZ-18565	Joinville	Santa Catarina	Brazil		South
+51	MF-18250	Lyon	Rhône-Alpes	France		Central
+52	WB-11850	Istanbul	Istanbul	Turkey		EMEA
+53	CB-12535	Mexico City	Distrito Federal	Mexico		North
+54	CR-12625	Lakewood	New Jersey	United States	8701	East
+55	DB-13270	Barcelona	Catalonia	Spain		South
+56	QJ-19255	Detroit	Michigan	United States	48234	Central
+57	EB-13930	Townsville	Queensland	Australia		Oceania
+58	AA-375	Lodz	Lodz	Poland		EMEA
+59	MC-17425	Jaipur	Rajasthan	India		Central Asia
+60	AJ-10795	Wigan	England	United Kingdom		North
+61	AJ-945	Mogadishu	Banaadir	Somalia		Africa
+62	MP-18175	Yuci	Shanxi	China		North Asia
+63	LW-16825	Deltona	Florida	United States	32725	South
+64	FW-14395	Antiguo Cuscatlán	La Libertad	El Salvador		Central
+65	JH-16180	Coventry	England	United Kingdom		North
+66	SP-10860	Ibadan	Oyo	Nigeria		Africa
+67	Dl-13600	Seattle	Washington	United States	98105	West
+68	MT-17815	Shanghai	Shanghai	China		North Asia
+69	JF-5190	Beykoz	Istanbul	Turkey		EMEA
+70	CS-2460	Wad Madani	Gezira	Sudan		Africa
+71	CT-11995	Champigny-sur-Marne	Ile-de-France	France		Central
+72	RD-19810	Leverkusen	North Rhine-Westphalia	Germany		Central
+73	JL-5850	Nitra	Nitra	Slovakia		EMEA
+74	HG-4845	Cairo	Al Qahirah	Egypt		Africa
+75	DV-3045	Lagos	Lagos	Nigeria		Africa
+76	JF-15565	Manila	National Capital	Philippines		Southeast Asia
+77	LC-6870	Abha	'Asir	Saudi Arabia		EMEA
+78	JL-5835	Zaria	Kaduna	Nigeria		Africa
+79	BF-10975	Charlotte	North Carolina	United States	28205	South
+80	FH-4365	Ankara	Ankara	Turkey		EMEA
+81	IL-15100	San Francisco	California	United States	94122	West
+82	KB-6600	Kerman	Kerman	Iran		EMEA
+83	DH-3075	Istanbul	Istanbul	Turkey		EMEA
+84	AG-525	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+85	AS-10630	Philadelphia	Pennsylvania	United States	19120	East
+86	MN-17935	Hefei	Anhui	China		North Asia
+87	EM-13960	Liverpool	England	United Kingdom		North
+88	TB-21055	Managua	Managua	Nicaragua		Central
+89	FH-14365	Drammen	Buskerud	Norway		North
+90	LH-16900	New York City	New York	United States	10009	East
+91	JS-5595	Montréal	Quebec	Canada		Canada
+92	LB-16795	Ayacucho	Ayacucho	Peru		South
+93	DL-12865	New Plymouth	Taranaki	New Zealand		Oceania
+94	ES-14080	Mexico City	Distrito Federal	Mexico		North
+95	GP-14740	León	León	Nicaragua		Central
+96	JL-15130	Houston	Texas	United States	77036	Central
+97	PN-18775	Jena	Thuringia	Germany		Central
+98	BO-11425	Manila	National Capital	Philippines		Southeast Asia
+99	DB-12910	High Wycombe	England	United Kingdom		North
+100	JL-5130	Cairo	Al Qahirah	Egypt		Africa
+101	LT-16765	Escondido	California	United States	92025	West
+102	CC-12610	Marseille	Provence-Alpes-Côte d'Azur	France		Central
+103	SW-10755	Kismaayo	Jubbada Hoose	Somalia		Africa
+104	AC-615	Nairobi	Nairobi	Kenya		Africa
+105	EH-14185	Santa Clara	Villa Clara	Cuba		Caribbean
+106	GH-4665	Budapest	Budapest	Hungary		EMEA
+107	AF-870	Bukavu	South Kivu	Democratic Republic of the Congo		Africa
+108	EB-13750	Caracas	Distrito Capital	Venezuela		South
+109	NF-18475	Reno	Nevada	United States	89502	West
+110	RA-19915	Denver	Colorado	United States	80219	West
+111	MV-17485	Singapore	Singapore	Singapore		Southeast Asia
+112	DF-13135	Slough	England	United Kingdom		North
+113	HR-4770	Jeddah	Makkah	Saudi Arabia		EMEA
+114	MK-18160	Seoul	Seoul	South Korea		North Asia
+115	LC-7140	Surrey	British Columbia	Canada		Canada
+116	JG-15115	Messina	Sicily	Italy		South
+117	KH-16630	Charlotte	North Carolina	United States	28205	South
+118	ND-18370	Portland	Oregon	United States	97206	West
+119	JG-15805	Mexico City	Distrito Federal	Mexico		North
+120	RB-19330	Norderstedt	Schleswig-Holstein	Germany		Central
+121	TT-21460	El Progreso	Yoro	Honduras		Central
+122	CM-1815	Mwanza	Mwanza	Tanzania		Africa
+123	DL-12925	Long Beach	New York	United States	11561	East
+124	BD-11635	Ludhiana	Punjab	India		Central Asia
+125	KD-16270	Magdeburg	Saxony-Anhalt	Germany		Central
+126	AA-10480	Castres	Midi-Pyrénées	France		Central
+127	DG-13300	Orange	New Jersey	United States	7050	East
+128	CD-2790	Uskudar	Istanbul	Turkey		EMEA
+129	JO-15145	Richmond	Kentucky	United States	40475	South
+130	ML-17410	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+131	EA-14035	Mason	Ohio	United States	45040	East
+132	AH-75	Kenitra	Gharb-Chrarda-Béni Hssen	Morocco		Africa
+133	FC-4245	Akhisar	Manisa	Turkey		EMEA
+134	SJ-10215	Mallawi	Al Minya	Egypt		Africa
+135	PL-18925	Los Angeles	California	United States	90049	West
+136	EM-3825	Korce	Korçë	Albania		EMEA
+137	SM-20950	Chicago	Illinois	United States	60610	Central
+138	JD-15790	Cosmópolis	São Paulo	Brazil		South
+139	RP-19390	Madison	Wisconsin	United States	53711	Central
+140	MG-17875	Genk	Limburg	Belgium		Central
+141	JK-15730	Columbus	Ohio	United States	43229	East
+142	MC-17605	Houston	Texas	United States	77070	Central
+143	YC-21895	Manukau City	Auckland	New Zealand		Oceania
+144	SL-20155	Valencia	Valenciana	Spain		South
+145	AA-10645	Lowell	Massachusetts	United States	1852	East
+146	AH-10585	Kabul	Kabul	Afghanistan		Central Asia
+147	CV-12295	Sucre	Chuquisaca	Bolivia		South
+148	SC-20725	Paris	Ile-de-France	France		Central
+149	KT-16465	Ho Chi Minh City	Ho Chí Minh City	Vietnam		Southeast Asia
+150	CB-12415	Takatsuki	Osaka	Japan		North Asia
+151	AR-10510	Mixco	Guatemala	Guatemala		Central
+152	BT-1530	Bissau	Bissau	Guinea-Bissau		Africa
+153	KA-16525	Managua	Managua	Nicaragua		Central
+154	JM-16195	Valladolid	Castile and León	Spain		South
+155	TR-21325	San Francisco	California	United States	94122	West
+156	TB-21280	Jacksonville	North Carolina	United States	28540	South
+157	CM-11830	Choluteca	Choluteca	Honduras		Central
+158	BM-11140	Igarassu	Pernambuco	Brazil		South
+159	FG-4260	Ibadan	Oyo	Nigeria		Africa
+160	MM-7260	St. Catharines	Ontario	Canada		Canada
+161	EB-13705	Seville	Andalusía	Spain		South
+162	EB-13840	Rosenheim	Bavaria	Germany		Central
+163	BD-11500	Green Bay	Wisconsin	United States	54302	Central
+164	KL-16645	Barcelona	Catalonia	Spain		South
+165	JM-15580	London	England	United Kingdom		North
+166	GD-14590	Bangkok	Bangkok	Thailand		Southeast Asia
+167	DN-13690	Port Macquarie	New South Wales	Australia		Oceania
+168	CC-12430	Bendigo	Victoria	Australia		Oceania
+169	MZ-17515	Bekasi	Jawa Barat	Indonesia		Southeast Asia
+170	NW-8400	Baghdad	Baghdad	Iraq		EMEA
+171	NH-18610	Philadelphia	Pennsylvania	United States	19120	East
+172	FH-14275	Las Tunas	Las Tunas	Cuba		Caribbean
+173	KN-16705	New York City	New York	United States	10009	East
+174	RD-19585	Athens	Georgia	United States	30605	South
+175	HL-15040	Rajshahi	Rajshahi	Bangladesh		Central Asia
+176	EB-13870	Sydney	New South Wales	Australia		Oceania
+177	TM-21490	Yicheng	Hubei	China		North Asia
+178	AH-10690	Virginia Beach	Virginia	United States	23464	South
+179	CS-2355	Rabat	Rabat-Salé-Zemmour-Zaer	Morocco		Africa
+180	PC-18745	Ho Chi Minh City	Ho Chí Minh City	Vietnam		Southeast Asia
+181	SC-20020	Houston	Texas	United States	77095	Central
+182	JK-15325	Suzhou	Anhui	China		North Asia
+183	CS-11860	Lakeland	Florida	United States	33801	South
+184	BD-11320	Pontoise	Ile-de-France	France		Central
+185	RB-9435	Sumy	Sumy	Ukraine		EMEA
+186	RD-19720	Singapore	Singapore	Singapore		Southeast Asia
+187	RH-19495	Jakarta	Jakarta	Indonesia		Southeast Asia
+188	VD-21670	Yangon	Yangon	Myanmar (Burma)		Southeast Asia
+189	RH-9510	Port Harcourt	Rivers	Nigeria		Africa
+190	JF-15355	Krefeld	North Rhine-Westphalia	Germany		Central
+191	GA-4515	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+192	BV-11245	London	England	United Kingdom		North
+193	CJ-12010	Apopa	San Salvador	El Salvador		Central
+194	SV-20785	Roswell	Georgia	United States	30076	South
+195	RB-19465	Bendigo	Victoria	Australia		Oceania
+196	BS-11755	Singapore	Singapore	Singapore		Southeast Asia
+197	BK-11260	Guayaquil	Guayas	Ecuador		South
+198	SW-20755	Groningen	Groningen	Netherlands		Central
+199	DW-13585	Adelaide	South Australia	Australia		Oceania
+200	RH-19600	Marseille	Provence-Alpes-Côte d'Azur	France		Central
+201	AT-10435	Jakarta	Jakarta	Indonesia		Southeast Asia
+202	CK-12325	Orem	Utah	United States	84057	West
+203	BM-1140	Lagos	Lagos	Nigeria		Africa
+204	EH-13945	Plainfield	New Jersey	United States	7060	East
+205	TD-20995	Dublin	Dublin	Ireland		North
+206	SN-20710	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+207	BP-1230	Port Harcourt	Rivers	Nigeria		Africa
+208	VG-21805	Surat	Gujarat	India		Central Asia
+209	CC-2670	Accra	Greater Accra	Ghana		Africa
+210	JS-15940	Tegucigalpa	Francisco Morazán	Honduras		Central
+211	NL-18310	Cestas	Aquitaine	France		Central
+212	AG-675	Vienna	Vienna	Austria		EMEA
+213	BM-11575	Ningbo	Zhejiang	China		North Asia
+214	SC-20095	Fayetteville	Arkansas	United States	72701	South
+215	JJ-15445	Wattrelos	Nord-Pas-de-Calais	France		Central
+216	GA-14515	Las Pinas	National Capital	Philippines		Southeast Asia
+217	SB-20170	Yangzhou	Jiangsu	China		North Asia
+218	BM-11785	Buffalo Grove	Illinois	United States	60089	Central
+219	AG-10525	Houston	Texas	United States	77095	Central
+220	JP-15520	Buenos Aires	Buenos Aires	Argentina		South
+221	EH-4125	Mecca	Makkah	Saudi Arabia		EMEA
+222	WB-21850	Chengdu	Sichuan	China		North Asia
+223	AF-10870	Port Macquarie	New South Wales	Australia		Oceania
+224	TH-21100	Manila	National Capital	Philippines		Southeast Asia
+225	KD-16345	New York City	New York	United States	10009	East
+226	SC-20770	Bhopal	Madhya Pradesh	India		Central Asia
+227	TS-21655	Vienna	Vienna	Austria		Central
+228	PN-8775	Fianarantsoa	Haute-Matsiatra	Madagascar		Africa
+229	SO-10335	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+230	RB-19435	Mangalore	Karnataka	India		Central Asia
+231	CL-12565	New York City	New York	United States	10009	East
+232	JE-5715	Izmir	Izmir	Turkey		EMEA
+233	BW-11200	Malang	Jawa Timur	Indonesia		Southeast Asia
+234	BT-11305	Lázaro Cárdenas	Michoacán	Mexico		North
+235	BD-11560	Leipzig	Saxony	Germany		Central
+236	JK-16120	Fort Lauderdale	Florida	United States	33311	South
+237	TB-11520	Sterlitamak	Bashkortostan	Russia		EMEA
+238	MH-17290	Hamburg	Hamburg	Germany		Central
+239	PR-18880	Nuremberg	Bavaria	Germany		Central
+240	SH-20395	San Francisco	California	United States	94122	West
+241	CA-12775	Satna	Madhya Pradesh	India		Central Asia
+242	MF-7665	Kerman	Kerman	Iran		EMEA
+243	DB-13405	Miramar	Tamaulipas	Mexico		North
+244	BS-11365	Ipswich	England	United Kingdom		North
+245	HA-14920	Palermo	Sicily	Italy		South
+246	NC-8625	St. John's	Newfoundland	Canada		Canada
+247	FH-4350	Mersin	Mersin	Turkey		EMEA
+248	BS-11665	Brasília	Federal District	Brazil		South
+249	PO-18850	Irving	Texas	United States	75061	Central
+250	JH-5985	Bejaia	Bejaia	Algeria		Africa
+251	JO-5550	Ibadan	Oyo	Nigeria		Africa
+252	RM-9675	Budapest	Budapest	Hungary		EMEA
+253	NC-18340	Chigasaki	Kanagawa	Japan		North Asia
+254	MT-18070	San Pedro Sula	Cortés	Honduras		Central
+255	DP-13165	New York City	New York	United States	10035	East
+256	AH-10210	Paris	Ile-de-France	France		Central
+257	LW-7215	Casablanca	Grand Casablanca	Morocco		Africa
+258	EB-3750	Sarajevo	Federation of Bosnia and Herzegovina	Bosnia and Herzegovina		EMEA
+259	RS-19765	Singapore	Singapore	Singapore		Southeast Asia
+260	XP-21865	Christchurch	Canterbury	New Zealand		Oceania
+261	ON-18715	Clinton	Maryland	United States	20735	East
+262	NM-18445	La Baule-Escoublac	Pays de la Loire	France		Central
+263	JD-16060	Changchun	Jilin	China		North Asia
+264	MG-17680	Offenbach	Hesse	Germany		Central
+265	KN-16390	Columbus	Ohio	United States	43229	East
+266	RM-19675	Villeurbanne	Rhône-Alpes	France		Central
+267	MD-17860	Corpus Christi	Texas	United States	78415	Central
+268	TP-11565	Diyarbakir	Diyarbakir	Turkey		EMEA
+269	KN-16450	Huddersfield	England	United Kingdom		North
+270	EM-13825	Sandy Springs	Georgia	United States	30328	South
+271	MC-17575	Chicago	Illinois	United States	60623	Central
+272	LW-6990	Mosul	Ninawa	Iraq		EMEA
+273	LB-16735	Manila	National Capital	Philippines		Southeast Asia
+274	DD-13570	Southport	England	United Kingdom		North
+275	DP-13390	Kuching	Sarawak	Malaysia		Southeast Asia
+276	JO-5280	Yazd	Yazd	Iran		EMEA
+277	NG-8355	Mashhad	Razavi Khorasan	Iran		EMEA
+278	JG-5115	Dar es Salaam	Dar Es Salaam	Tanzania		Africa
+279	ML-17755	Uppsala	Uppsala	Sweden		North
+280	DB-3210	Lagos	Lagos	Nigeria		Africa
+281	TS-21160	Zunyi	Guizhou	China		North Asia
+282	SW-10455	Luanda	Luanda	Angola		Africa
+283	CD-12790	San Diego	California	United States	92037	West
+284	SC-10230	Elbasan	Elbasan	Albania		EMEA
+285	MV-18190	Tongi	Dhaka	Bangladesh		Central Asia
+286	MW-18235	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+287	BW-1200	Casablanca	Grand Casablanca	Morocco		Africa
+288	SF-10065	Iasi	Iasi	Romania		EMEA
+289	JS-15595	Columbus	Ohio	United States	43229	East
+290	EJ-14155	San Diego	California	United States	92037	West
+291	AP-10720	New York City	New York	United States	10035	East
+292	AP-720	Cairo	Al Qahirah	Egypt		Africa
+293	CC-2370	Algiers	Alger	Algeria		Africa
+294	AJ-960	Onitsha	Anambra	Nigeria		Africa
+295	TS-11085	Jerusalem	Jerusalem	Israel		EMEA
+296	RB-19705	Nantes	Pays de la Loire	France		Central
+297	YS-11880	Mashhad	Razavi Khorasan	Iran		EMEA
+298	CC-12220	San Pedro Sula	Cortés	Honduras		Central
+299	AJ-10945	Wilmington	North Carolina	United States	28403	South
+300	KE-16420	Los Angeles	California	United States	90008	West
+301	TR-11325	Dar es Salaam	Dar Es Salaam	Tanzania		Africa
+302	CC-2475	London	Ontario	Canada		Canada
+303	JR-15670	Baotou	Inner Mongolia	China		North Asia
+304	EH-3990	Kisangani	Orientale	Democratic Republic of the Congo		Africa
+305	AM-10705	Puebla	Puebla	Mexico		North
+306	MV-7485	Bujumbura	Bujumbura-Mairie	Burundi		Africa
+307	JM-15265	Ho Chi Minh City	Ho Chí Minh City	Vietnam		Southeast Asia
+308	NC-18415	Yonkers	New York	United States	10701	East
+309	CC-2550	Kharkiv	Kharkiv	Ukraine		EMEA
+310	SV-20935	Melbourne	Victoria	Australia		Oceania
+311	MS-17365	Xingtai	Hebei	China		North Asia
+312	RE-19450	Decatur	Illinois	United States	62521	Central
+313	FW-4395	Yaounde	Centre	Cameroon		Africa
+314	RW-9690	Dar es Salaam	Dar Es Salaam	Tanzania		Africa
+315	SF-20065	Brisbane	Queensland	Australia		Oceania
+316	AR-10345	Aracaju	Sergipe	Brazil		South
+317	BD-1635	Corum	Corum	Turkey		EMEA
+318	PP-8955	Alexandria	Al Iskandariyah	Egypt		Africa
+319	AT-435	Cape Town	Western Cape	South Africa		Africa
+320	EB-3930	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+321	AY-10555	Mixco	Guatemala	Guatemala		Central
+322	RB-19795	Midland	Michigan	United States	48640	Central
+323	RS-9870	Fes	Fès-Boulemane	Morocco		Africa
+324	DM-13525	Muzaffarpur	Bihar	India		Central Asia
+325	MW-8220	Salavat	Bashkortostan	Russia		EMEA
+326	JL-5175	Jerusalem	Jerusalem	Israel		EMEA
+327	JG-15310	Limoges	Limousin	France		Central
+328	RM-9375	Haifa	Haifa	Israel		EMEA
+329	HM-4860	Dakar	Dakar	Senegal		Africa
+330	DC-12850	Marseille	Provence-Alpes-Côte d'Azur	France		Central
+331	DL-13330	Berlin	Berlin	Germany		Central
+332	RA-19885	Huddersfield	England	United Kingdom		North
+333	CM-12715	Moa	Holguín	Cuba		Caribbean
+334	GG-14650	Shenzhen	Guangdong	China		North Asia
+335	GH-14410	Glendale	Arizona	United States	85301	West
+336	HJ-14875	San Salvador	San Salvador	El Salvador		Central
+337	KM-16660	Biarritz	Aquitaine	France		Central
+338	JR-5700	Istanbul	Istanbul	Turkey		EMEA
+339	TS-21610	Altotonga	Veracruz	Mexico		North
+340	AG-10390	New York City	New York	United States	10009	East
+341	BF-11170	Oslo	Oslo	Norway		North
+342	MR-17545	Houston	Texas	United States	77095	Central
+343	RL-19615	Nova Serrana	Minas Gerais	Brazil		South
+344	ED-13885	Los Mochis	Sinaloa	Mexico		North
+345	JK-15205	Alice Springs	Northern Territory	Australia		Oceania
+346	KB-16315	Villa Nueva	Guatemala	Guatemala		Central
+347	FP-14320	Brisbane	Queensland	Australia		Oceania
+348	BP-11290	Evanston	Illinois	United States	60201	Central
+349	EH-3945	Qom	Qom	Iran		EMEA
+350	SD-20485	Makati	National Capital	Philippines		Southeast Asia
+351	AG-10900	Novara	Piedmont	Italy		South
+352	DO-13435	Columbus	Ohio	United States	43229	East
+353	AR-10405	Los Angeles	California	United States	90036	West
+354	BS-1590	Tbilisi	Tbilisi	Georgia		EMEA
+355	PO-8865	Ajman	'Ajman	United Arab Emirates		EMEA
+356	JH-5430	Mississauga	Ontario	Canada		Canada
+357	RD-19930	Dallas	Texas	United States	75217	Central
+358	SM-20905	San Salvador	San Salvador	El Salvador		Central
+359	DP-13105	Gold Coast	Queensland	Australia		Oceania
+360	GM-14680	Amsterdam	North Holland	Netherlands		Central
+361	EH-14005	Nueva Gerona	Isla de la Juventud	Cuba		Caribbean
+362	DL-13495	Faridabad	Haryana	India		Central Asia
+363	RW-19540	Allauch	Provence-Alpes-Côte d'Azur	France		Central
+364	SG-20605	New York City	New York	United States	10009	East
+365	SA-20830	Erfurt	Thuringia	Germany		Central
+366	SW-20455	Medan	Sumatera Utara	Indonesia		Southeast Asia
+367	GT-14755	Hamburg	Hamburg	Germany		Central
+368	MC-17845	Bangkok	Bangkok	Thailand		Southeast Asia
+369	MS-17770	Lancaster	Pennsylvania	United States	17602	East
+370	CC-2145	Adana	Adana	Turkey		EMEA
+371	AT-10735	Nashville	Tennessee	United States	37211	South
+372	MO-17950	Montreuil	Ile-de-France	France		Central
+373	AB-10015	Guadalajara	Jalisco	Mexico		North
+374	TB-21520	Darwin	Northern Territory	Australia		Oceania
+375	HG-4965	Lagos	Lagos	Nigeria		Africa
+376	TC-21535	Los Angeles	California	United States	90049	West
+377	DM-13345	Orange	New Jersey	United States	7050	East
+378	LR-17035	Hamburg	Hamburg	Germany		Central
+379	GM-14500	Managua	Managua	Nicaragua		Central
+380	HF-14995	Siegen	North Rhine-Westphalia	Germany		Central
+381	JB-15925	Jember	Jawa Timur	Indonesia		Southeast Asia
+382	TC-21145	Sousa	Paraíba	Brazil		South
+383	NG-18430	Oklahoma City	Oklahoma	United States	73120	Central
+384	CM-12385	Ilopango	San Salvador	El Salvador		Central
+385	HG-14845	Ho Chi Minh City	Ho Chí Minh City	Vietnam		Southeast Asia
+386	MC-17635	Saint Louis	Missouri	United States	63116	Central
+387	MH-17785	Mérida	Yucatán	Mexico		North
+388	AP-10915	Valence	Rhône-Alpes	France		Central
+389	AW-10930	Santiago de Cuba	Santiago de Cuba	Cuba		Caribbean
+390	GT-14635	Birmingham	England	United Kingdom		North
+391	DP-13000	Houston	Texas	United States	77095	Central
+392	JC-5340	Khartoum	Khartoum	Sudan		Africa
+393	CC-12370	Lower Hutt	Wellington	New Zealand		Oceania
+394	TS-11430	Johannesburg	Gauteng	South Africa		Africa
+395	BT-11485	Grenoble	Rhône-Alpes	France		Central
+396	AS-630	Lagos	Lagos	Nigeria		Africa
+397	BE-11455	Chengdu	Sichuan	China		North Asia
+398	DM-13015	Managua	Managua	Nicaragua		Central
+399	PW-9240	Istanbul	Istanbul	Turkey		EMEA
+400	LP-17095	Bogotá	Bogota	Colombia		South
+401	AG-10495	Saint-Priest	Rhône-Alpes	France		Central
+402	DA-3450	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+403	BW-11065	Limeira	São Paulo	Brazil		South
+404	KB-16585	Lafayette	Louisiana	United States	70506	South
+405	MS-17710	Detroit	Michigan	United States	48205	Central
+406	CL-1890	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+407	BT-1440	Kayseri	Kayseri	Turkey		EMEA
+408	NM-8445	Cairo	Al Qahirah	Egypt		Africa
+409	PK-18910	San Francisco	California	United States	94109	West
+410	DJ-13420	Ulm	Baden-Württemberg	Germany		Central
+411	SF-20200	London	England	United Kingdom		North
+412	SC-20800	Munich	Bavaria	Germany		Central
+413	TZ-21580	Cologne	North Rhine-Westphalia	Germany		Central
+414	EM-14200	Moers	North Rhine-Westphalia	Germany		Central
+415	ES-4080	Bur Sudan	Red Sea	Sudan		Africa
+416	GT-4755	Pretoria	Gauteng	South Africa		Africa
+417	PM-18940	Jackson	Michigan	United States	49201	Central
+418	LA-16780	São Gonçalo	Rio de Janeiro	Brazil		South
+419	BT-11440	New York City	New York	United States	10035	East
+420	GK-14620	Edinburgh	Scotland	United Kingdom		North
+421	TH-11550	Lagos	Lagos	Nigeria		Africa
+422	MP-17470	Columbus	Ohio	United States	43229	East
+423	RB-19360	Panama City	Panama	Panama		Central
+424	AA-10315	Marikina	National Capital	Philippines		Southeast Asia
+425	JS-16030	Ho Chi Minh City	Ho Chí Minh City	Vietnam		Southeast Asia
+426	DL-13315	La Romana	La Romana	Dominican Republic		Caribbean
+427	SV-10785	Dnipropetrovs'k	Dnipropetrovs'k	Ukraine		EMEA
+428	RC-19960	Ashford	England	United Kingdom		North
+429	ML-18040	Aix-en-Provence	Provence-Alpes-Côte d'Azur	France		Central
+430	JP-5460	Mashhad	Razavi Khorasan	Iran		EMEA
+431	RH-9555	Riyadh	Ar Riyad	Saudi Arabia		EMEA
+432	ML-17395	Bangor	Maine	United States	4401	East
+433	LD-16855	Gómez Palacio	Durango	Mexico		North
+434	EN-13780	Chennai	Tamil Nadu	India		Central Asia
+435	DK-2835	Baghdad	Baghdad	Iraq		EMEA
+436	PW-19030	Port Macquarie	New South Wales	Australia		Oceania
+437	LR-6915	Zwedru	Grand Gedeh	Liberia		Africa
+438	CP-2085	Izmir	Izmir	Turkey		EMEA
+439	JJ-15760	Montreuil	Ile-de-France	France		Central
+440	CM-2445	Hradec Kralove	Hradec Kralove	Czech Republic		EMEA
+441	PO-19195	Blumenau	Santa Catarina	Brazil		South
+442	BF-11215	Cirebon	Jawa Barat	Indonesia		Southeast Asia
+443	AG-270	Bertoua	Est	Cameroon		Africa
+444	VM-21835	Villa Nueva	Guatemala	Guatemala		Central
+445	AH-10465	Soyapango	San Salvador	El Salvador		Central
+446	JD-16015	Seattle	Washington	United States	98115	West
+447	AB-10255	Dewas	Madhya Pradesh	India		Central Asia
+448	MO-17800	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+449	FM-14290	Spanish Town	Saint Catherine	Jamaica		Caribbean
+450	HK-14890	Drancy	Ile-de-France	France		Central
+451	CS-11845	Oruro	Oruro	Bolivia		South
+452	JL-15835	Soyapango	San Salvador	El Salvador		Central
+453	MM-18055	Tarragona	Catalonia	Spain		South
+454	RW-9630	Natitingou	Atakora	Benin		Africa
+455	RA-9285	Corum	Corum	Turkey		EMEA
+456	MH-17455	Cinisello Balsamo	Lombardy	Italy		South
+457	GM-4440	Sale	Rabat-Salé-Zemmour-Zaer	Morocco		Africa
+458	DB-13615	Munich	Bavaria	Germany		Central
+459	NF-18385	Hildesheim	Lower Saxony	Germany		Central
+460	MK-17905	San Salvador	San Salvador	El Salvador		Central
+461	HG-5025	Abadan	Khuzestan	Iran		EMEA
+462	MS-17530	San Diego	California	United States	92037	West
+463	DS-13180	São Paulo	São Paulo	Brazil		South
+464	SZ-20035	New York City	New York	United States	10011	East
+465	Dp-13240	Panama City	Panama	Panama		Central
+466	BM-1650	Vaughan	Ontario	Canada		Canada
+467	TH-21235	Long Beach	California	United States	90805	West
+468	DP-3000	Mogadishu	Banaadir	Somalia		Africa
+469	CP-12085	New York City	New York	United States	10024	East
+470	JH-15430	Poza Rica de Hidalgo	Veracruz	Mexico		North
+471	MG-17890	Echirolles	Rhône-Alpes	France		Central
+472	AW-840	Gaziantep	Gaziantep	Turkey		EMEA
+473	MH-17440	Escondido	California	United States	92025	West
+474	AB-10150	Yonkers	New York	United States	10701	East
+475	BP-1050	Gliwice	Silesia	Poland		EMEA
+476	GM-14695	Alexandria	Virginia	United States	22304	South
+477	BB-10990	Sukkur	Sindh	Pakistan		Central Asia
+478	RD-19900	Dearborn Heights	Michigan	United States	48127	Central
+479	TH-21115	Jalalabad	Nangarhar	Afghanistan		Central Asia
+480	NC-8535	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+481	TH-21550	New York City	New York	United States	10035	East
+482	RP-19855	Richmond	Kentucky	United States	40475	South
+483	MM-17920	Perth	Western Australia	Australia		Oceania
+484	PG-18895	Medan	Sumatera Utara	Indonesia		Southeast Asia
+485	SC-20695	Vienna	Vienna	Austria		Central
+486	PJ-18835	Managua	Managua	Nicaragua		Central
+487	CC-12670	Gujranwala	Punjab	Pakistan		Central Asia
+488	PM-8940	Salzburg	Salzburg	Austria		EMEA
+489	MY-7380	Johannesburg	Gauteng	South Africa		Africa
+490	PF-19120	Richmond	Kentucky	United States	40475	South
+491	CK-12760	Bangkok	Bangkok	Thailand		Southeast Asia
+492	GH-14665	Hobart	Tasmania	Australia		Oceania
+493	JS-5940	Mosul	Ninawa	Iraq		EMEA
+494	AB-10600	Bangkok	Bangkok	Thailand		Southeast Asia
+495	JK-6120	Matadi	Bas-Congo	Democratic Republic of the Congo		Africa
+496	DW-13195	Knoxville	Tennessee	United States	37918	South
+497	RS-19420	Meriden	Connecticut	United States	6450	East
+498	TG-21310	Innsbruck	Tyrol	Austria		Central
+499	DP-3105	Matadi	Bas-Congo	Democratic Republic of the Congo		Africa
+500	GZ-14470	Texas City	Texas	United States	77590	Central
+501	CS-12130	Los Angeles	California	United States	90004	West
+502	JB-16045	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+503	NP-18325	Rotorua	Bay of Plenty	New Zealand		Oceania
+504	MH-7785	Kigali	Kigali	Rwanda		Africa
+505	SS-20590	San Francisco	California	United States	94122	West
+506	HH-15010	Hobart	Tasmania	Australia		Oceania
+507	SC-10380	Qom	Qom	Iran		EMEA
+508	SS-10515	Bandar Abbas	Hormozgan	Iran		EMEA
+509	PF-9225	Garoua	Nord	Cameroon		Africa
+510	EH-13990	Manila	National Capital	Philippines		Southeast Asia
+511	CA-2310	Mosul	Ninawa	Iraq		EMEA
+512	NP-18700	Bowling Green	Ohio	United States	43402	East
+513	JM-15535	Solapur	Maharashtra	India		Central Asia
+514	EP-13915	Guangshui	Hubei	China		North Asia
+515	BT-1305	Almaty	Almaty City	Kazakhstan		EMEA
+516	VG-21790	Gladstone	Queensland	Australia		Oceania
+517	CS-12400	Manila	National Capital	Philippines		Southeast Asia
+518	KH-16510	Pomona	California	United States	91767	West
+519	BT-11395	Auckland	Auckland	New Zealand		Oceania
+520	RB-9705	Nairobi	Nairobi	Kenya		Africa
+521	JC-6105	Qom	Qom	Iran		EMEA
+522	MD-17350	Philadelphia	Pennsylvania	United States	19143	East
+523	LC-6930	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+524	BW-11110	Mexico City	Distrito Federal	Mexico		North
+525	BG-11035	Hampton	Virginia	United States	23666	South
+526	SV-20365	Lahore	Punjab	Pakistan		Central Asia
+527	SR-20740	Arlington	Virginia	United States	22204	South
+528	DE-13255	Los Angeles	California	United States	90008	West
+529	BS-11590	Gilbert	Arizona	United States	85234	West
+530	JS-15685	Managua	Managua	Nicaragua		Central
+531	HE-14800	Cuernavaca	Morelos	Mexico		North
+532	NB-18655	Philadelphia	Pennsylvania	United States	19134	East
+533	MJ-17740	Newcastle	New South Wales	Australia		Oceania
+534	ZD-21925	Dhaka	Dhaka	Bangladesh		Central Asia
+535	CS-12460	La Romana	La Romana	Dominican Republic		Caribbean
+536	TT-21265	Napier	Hawke's Bay	New Zealand		Oceania
+537	RP-9855	Luanda	Luanda	Angola		Africa
+538	RC-19825	Alexandria	Virginia	United States	22304	South
+539	AA-645	Lagos	Lagos	Nigeria		Africa
+540	BH-11710	Padang	Sumatera Barat	Indonesia		Southeast Asia
+541	RD-19660	Ho Chi Minh City	Ho Chí Minh City	Vietnam		Southeast Asia
+542	GK-4620	Luanda	Luanda	Angola		Africa
+543	MB-18085	Philadelphia	Pennsylvania	United States	19143	East
+544	JM-6195	Aydin	Aydin	Turkey		EMEA
+545	PC-19000	Barcelona	Catalonia	Spain		South
+546	SC-20260	Seattle	Washington	United States	98115	West
+547	ME-17725	Geneva	Geneva	Switzerland		Central
+548	JB-16000	Arapongas	Parana	Brazil		South
+549	AH-465	Marrakech	Marrakech-Tensift-El Haouz	Morocco		Africa
+550	MM-17260	Lattes	Languedoc-Roussillon	France		Central
+551	LC-16930	Pau	Aquitaine	France		Central
+552	AS-90	Lagos	Lagos	Nigeria		Africa
+553	TC-20980	Chengdu	Sichuan	China		North Asia
+554	CP-12340	Santiago de Cuba	Santiago de Cuba	Cuba		Caribbean
+555	AS-10285	Zhumadian	Henan	China		North Asia
+556	TC-11475	Doha	Ad Dawhah	Qatar		EMEA
+557	LD-17005	Seoul	Seoul	South Korea		North Asia
+558	HP-14815	Los Angeles	California	United States	90049	West
+559	RO-19780	Watford	England	United Kingdom		North
+560	CY-2745	Lisichansk	Luhans'k	Ukraine		EMEA
+561	LB-6795	Adana	Adana	Turkey		EMEA
+562	BS-11380	Oyonnax	Rhône-Alpes	France		Central
+563	CM-12190	Gujranwala	Punjab	Pakistan		Central Asia
+564	GW-4605	Giyani	Limpopo	South Africa		Africa
+565	LE-6810	Riyadh	Ar Riyad	Saudi Arabia		EMEA
+566	MH-7440	Johannesburg	Gauteng	South Africa		Africa
+567	AF-10885	London	England	United Kingdom		North
+568	AC-10660	Marseille	Provence-Alpes-Côte d'Azur	France		Central
+569	DB-13210	Colchester	England	United Kingdom		North
+570	ML-18265	Vienna	Vienna	Austria		Central
+571	VT-21700	Houston	Texas	United States	77070	Central
+572	VM-21685	Melbourne	Victoria	Australia		Oceania
+573	CL-11890	Dublin	Dublin	Ireland		North
+574	SN-10560	Lagos	Lagos	Nigeria		Africa
+575	SB-20185	Cologne	North Rhine-Westphalia	Germany		Central
+576	BC-11125	El Cajon	California	United States	92020	West
+577	CG-12520	Rochdale	England	United Kingdom		North
+578	MC-7605	Nairobi	Nairobi	Kenya		Africa
+579	SB-10185	Yanbu al Bahr	Al Madinah	Saudi Arabia		EMEA
+580	TB-21625	New York City	New York	United States	10035	East
+581	MH-18115	San Pedro Sula	Cortés	Honduras		Central
+582	RF-19735	Columbia	South Carolina	United States	29203	South
+583	ME-7725	Plovdiv	Plovdiv	Bulgaria		EMEA
+584	JW-16075	Shizuishan	Ningxia	China		North Asia
+585	CM-2655	Sari	Mazandaran	Iran		EMEA
+586	JG-15160	Manila	National Capital	Philippines		Southeast Asia
+587	SO-20335	Dudley	England	United Kingdom		North
+588	FC-14245	Seoul	Seoul	South Korea		North Asia
+589	BM-11650	Dreux	Centre	France		Central
+590	PB-19150	San Pedro Sula	Cortés	Honduras		Central
+591	AG-10675	Amsterdam	North Holland	Netherlands		Central
+592	BD-11605	Colombo	Parana	Brazil		South
+593	AR-510	Bandar Abbas	Hormozgan	Iran		EMEA
+594	TZ-21445	Villa Canales	Guatemala	Guatemala		Central
+595	EB-3870	Sanandaj	Kordestan	Iran		EMEA
+596	BF-11080	Bangkok	Bangkok	Thailand		Southeast Asia
+597	AI-10855	Berlin	Berlin	Germany		Central
+598	AM-10360	Omaha	Nebraska	United States	68104	Central
+599	JF-15415	Panama City	Panama	Panama		Central
+600	JE-15610	Soyapango	San Salvador	El Salvador		Central
+601	TS-11370	Akure	Ondo	Nigeria		Africa
+602	CM-12655	Laval	Pays de la Loire	France		Central
+603	BF-11005	Firminy	Rhône-Alpes	France		Central
+604	CM-11815	Foggia	Apulia	Italy		South
+605	BT-11680	Vittoria	Sicily	Italy		South
+606	MC-17275	Saint-Pierre-des-Corps	Centre	France		Central
+607	BF-975	Pretoria	Gauteng	South Africa		Africa
+608	HF-4995	Tehran	Tehran	Iran		EMEA
+609	LF-17185	Houston	Texas	United States	77095	Central
+610	ME-17320	Arica	Arica y Parinacota	Chile		South
+611	PF-19165	Stockport	England	United Kingdom		North
+612	LS-17230	Los Angeles	California	United States	90049	West
+613	AC-420	Algiers	Alger	Algeria		Africa
+614	ND-18460	Chesapeake	Virginia	United States	23320	South
+615	NW-18400	Kuching	Sarawak	Malaysia		Southeast Asia
+616	DB-13660	Zhenjiang	Jiangsu	China		North Asia
+617	SW-20275	Auckland	Auckland	New Zealand		Oceania
+618	GB-14530	La Crau	Provence-Alpes-Côte d'Azur	France		Central
+619	MG-7695	Mecca	Makkah	Saudi Arabia		EMEA
+620	TS-21340	Paris	Ile-de-France	France		Central
+621	NP-18685	Des Moines	Washington	United States	98198	West
+622	BW-1110	Yaounde	Centre	Cameroon		Africa
+623	FM-14215	Essen	North Rhine-Westphalia	Germany		Central
+624	LW-17125	Le Blanc-Mesnil	Ile-de-France	France		Central
+625	PJ-19015	Mobile	Alabama	United States	36608	South
+626	DB-2910	Poznan	Greater Poland	Poland		EMEA
+627	DA-13450	Amsterdam	North Holland	Netherlands		Central
+628	DR-12940	Townsville	Queensland	Australia		Oceania
+629	TB-21355	Toowoomba	Queensland	Australia		Oceania
+630	DK-12895	Monterrey	Nuevo León	Mexico		North
+631	EH-14125	Bilaspur	Uttar Pradesh	India		Central Asia
+632	MT-8070	Gaziantep	Gaziantep	Turkey		EMEA
+633	NK-18490	Paris	Ile-de-France	France		Central
+634	NR-18550	Aurora	Illinois	United States	60505	Central
+635	CB-2415	Izmir	Izmir	Turkey		EMEA
+636	SU-20665	Panama City	Panama	Panama		Central
+637	SC-20845	Bogotá	Bogota	Colombia		South
+638	RH-19510	Southend-on-Sea	England	United Kingdom		North
+639	CA-2775	L'viv	L'viv	Ukraine		EMEA
+640	SP-20860	Santiago de los Caballeros	Santiago	Dominican Republic		Caribbean
+641	DK-12985	Traralgon	Victoria	Australia		Oceania
+642	BP-11095	Peoria	Illinois	United States	61604	Central
+643	EB-13975	Durango	Durango	Mexico		North
+644	CM-12160	Buenos Aires	Buenos Aires	Argentina		South
+645	GT-14710	Vadodara	Gujarat	India		Central Asia
+646	SB-20290	Philadelphia	Pennsylvania	United States	19134	East
+647	SS-20410	Oswego	Illinois	United States	60543	Central
+648	PB-19210	Geelong	Victoria	Australia		Oceania
+649	KN-6705	Bacau	Bacau	Romania		EMEA
+650	RB-9465	Mombasa	Coast	Kenya		Africa
+651	DK-13375	New York City	New York	United States	10024	East
+652	KC-6675	Mosul	Ninawa	Iraq		EMEA
+653	JM-15865	Morelia	Michoacán	Mexico		North
+654	RL-9615	Riyadh	Ar Riyad	Saudi Arabia		EMEA
+655	HA-14905	Qingdao	Shandong	China		North Asia
+656	DM-3345	Mardin	Mardin	Turkey		EMEA
+657	AH-10075	Bridgetown	Saint Michael	Barbados		Caribbean
+658	AA-10375	Porirua	Wellington	New Zealand		Oceania
+659	EL-3735	Namangan	Namangan	Uzbekistan		EMEA
+660	PG-18820	Tlalpan	Distrito Federal	Mexico		North
+661	RR-9315	Rasht	Gilan	Iran		EMEA
+662	LS-16975	São Paulo	São Paulo	Brazil		South
+663	TB-21175	Bogotá	Bogota	Colombia		South
+664	TT-11265	Lublin	Lublin	Poland		EMEA
+665	DE-3255	Shumen	Shumen	Bulgaria		EMEA
+666	TT-21070	Mexico City	Distrito Federal	Mexico		North
+667	DM-3525	Kolwezi	Katanga	Democratic Republic of the Congo		Africa
+668	NC-18625	Daejeon	Daejeon	South Korea		North Asia
+669	SP-20920	Warangal	Telangana	India		Central Asia
+670	RE-9450	Masjed Soleyman	Khuzestan	Iran		EMEA
+671	TB-21595	Portland	Oregon	United States	97206	West
+672	DS-3030	Istanbul	Istanbul	Turkey		EMEA
+673	MY-17380	Mexico City	Distrito Federal	Mexico		North
+674	CM-2715	Ugep	Cross River	Nigeria		Africa
+675	BC-1125	Algiers	Alger	Algeria		Africa
+676	SC-20050	Gold Coast	Queensland	Australia		Oceania
+677	JD-5790	Siedlce	Masovia	Poland		EMEA
+678	BP-11185	Goulburn	New South Wales	Australia		Oceania
+679	JP-16135	Shangzhi	Heilongjiang	China		North Asia
+680	ZD-11925	Chisinau	Chisinau	Moldova		EMEA
+681	SE-20110	Latur	Maharashtra	India		Central Asia
+682	TG-21640	Santiago	Santiago	Chile		South
+683	AG-390	Gitarama	Southern	Rwanda		Africa
+684	HZ-4950	Benguela	Benguela	Angola		Africa
+685	NF-18595	Kunming	Yunnan	China		North Asia
+686	VS-21820	Huntsville	Texas	United States	77340	Central
+687	CS-12250	New York City	New York	United States	10024	East
+688	KW-6570	Cairo	Al Qahirah	Egypt		Africa
+689	KW-16570	Santiago	Santiago	Chile		South
+690	JB-6045	Mosul	Ninawa	Iraq		EMEA
+691	SC-20680	Phnom Penh	Phnom Penh	Cambodia		Southeast Asia
+692	GR-4560	Lagos	Lagos	Nigeria		Africa
+693	LW-17215	Baden-Baden	Baden-Württemberg	Germany		Central
+694	JF-5490	Tbilisi	Tbilisi	Georgia		EMEA
+695	JK-5730	Warsaw	Masovia	Poland		EMEA
+696	DK-3375	Vancouver	British Columbia	Canada		Canada
+697	KM-16225	Jakarta	Jakarta	Indonesia		Southeast Asia
+698	BE-1410	Kindia	Kindia	Guinea		Africa
+699	JS-15880	Toledo	Ohio	United States	43615	East
+700	AH-10195	Pescara	Abruzzi	Italy		South
+701	JH-5910	Owerri	Imo	Nigeria		Africa
+702	JM-15655	Glendale	Arizona	United States	85301	West
+703	KT-16480	Philadelphia	Pennsylvania	United States	19134	East
+704	MC-18100	Adelaide	South Australia	Australia		Oceania
+705	SW-20350	Depok	Jawa Barat	Indonesia		Southeast Asia
+706	TC-10980	Baku	Baki	Azerbaijan		EMEA
+707	RD-19480	Long Beach	New York	United States	11561	East
+708	CS-11950	Seattle	Washington	United States	98115	West
+709	CS-12490	Panama City	Panama	Panama		Central
+710	FO-14305	Ceuta	Ceuta	Spain		South
+711	BP-1155	Gdansk	Pomerania	Poland		EMEA
+712	BV-1245	Kahramanmaras	Kahramanmaras	Turkey		EMEA
+713	EM-13810	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+714	TW-21025	Camagüey	Camagüey	Cuba		Caribbean
+715	LR-7035	Sterlitamak	Bashkortostan	Russia		EMEA
+716	GH-14425	Meudon	Ile-de-France	France		Central
+717	SM-20320	Bangkok	Bangkok	Thailand		Southeast Asia
+718	AA-315	Balikesir	Balikesir	Turkey		EMEA
+719	EJ-4155	Nkongsamba	Littoral	Cameroon		Africa
+720	BG-1695	Lagos	Lagos	Nigeria		Africa
+721	MH-18025	Buffalo	New York	United States	14215	East
+722	LR-16915	San Diego	California	United States	92024	West
+723	MA-17560	Trenton	Michigan	United States	48183	Central
+724	TM-21010	Vacaville	California	United States	95687	West
+725	JF-15295	Fontenay-aux-Roses	Ile-de-France	France		Central
+726	CV-2295	Baghdad	Baghdad	Iraq		EMEA
+727	MB-17305	Glendale	Arizona	United States	85301	West
+728	AC-10450	Versailles	Ile-de-France	France		Central
+729	GM-14440	Jinan	Shandong	China		North Asia
+730	VP-21730	Courbevoie	Ile-de-France	France		Central
+731	NB-8655	Arak	Markazi	Iran		EMEA
+732	YC-11895	Edea	Littoral	Cameroon		Africa
+733	DB-3360	Kitwe	Copperbelt	Zambia		Africa
+734	CV-2805	Istanbul	Istanbul	Turkey		EMEA
+735	JK-16090	Gold Coast	Queensland	Australia		Oceania
+736	ER-13855	Lugo	Galicia	Spain		South
+737	JH-15910	Oberhausen	North Rhine-Westphalia	Germany		Central
+738	KC-16255	Macon	Georgia	United States	31204	South
+739	SV-20815	Buenos Aires	Buenos Aires	Argentina		South
+740	PP-18955	New York City	New York	United States	10009	East
+741	LD-7005	Kano	Kano	Nigeria		Africa
+742	LH-17020	Tyler	Texas	United States	75701	Central
+743	BD-11770	Neuilly-sur-Seine	Ile-de-France	France		Central
+744	SM-10950	Kermanshah	Kermanshah	Iran		EMEA
+745	SP-20620	Long Beach	New York	United States	11561	East
+746	BS-11800	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+747	SP-20545	Jember	Jawa Timur	Indonesia		Southeast Asia
+748	JF-15190	Dhaka	Dhaka	Bangladesh		Central Asia
+749	SR-20425	Ercolano	Campania	Italy		South
+750	OT-18730	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+751	SC-10020	Timisoara	Timis	Romania		EMEA
+752	SM-20005	Longjumeau	Ile-de-France	France		Central
+753	DO-3435	Kaliningrad	Kaliningrad	Russia		EMEA
+754	LC-6885	Cairo	Al Qahirah	Egypt		Africa
+755	MC-8130	Vlore	Vlorë	Albania		EMEA
+756	BG-11695	Culiacán	Sinaloa	Mexico		North
+757	PB-18805	Duisburg	North Rhine-Westphalia	Germany		Central
+758	PM-19135	Manila	National Capital	Philippines		Southeast Asia
+759	JK-15625	Olympia	Washington	United States	98502	West
+760	AG-10300	Juárez	Chihuahua	Mexico		North
+761	ND-8460	Usol'ye-Sibirskoye	Irkutsk	Russia		EMEA
+762	GB-14575	Kupang	Nusa Tenggara Timur	Indonesia		Southeast Asia
+763	NF-8385	Accra	Greater Accra	Ghana		Africa
+764	CD-12280	Caracas	Distrito Capital	Venezuela		South
+765	JK-5625	Lagos	Lagos	Nigeria		Africa
+766	TB-21250	Salem	Oregon	United States	97301	West
+767	KS-16300	Argenteuil	Ile-de-France	France		Central
+768	CM-2385	Riyadh	Ar Riyad	Saudi Arabia		EMEA
+769	AG-10270	Rach Gia	Kiên Giang	Vietnam		Southeast Asia
+770	TP-21415	Sancti Spíritus	Sancti Spíritus	Cuba		Caribbean
+771	ST-20530	Bayamo	Granma	Cuba		Caribbean
+772	NG-18355	Almelo	Overijssel	Netherlands		Central
+773	SS-20140	Katoomba	New South Wales	Australia		Oceania
+774	JL-15235	Madrid	Madrid	Spain		South
+775	JL-15175	Bangkok	Bangkok	Thailand		Southeast Asia
+776	DW-13540	San Salvador	San Salvador	El Salvador		Central
+777	NF-8595	Corlu	Tekirdag	Turkey		EMEA
+778	KH-16690	Porto	Porto	Portugal		South
+779	TZ-11445	Antananarivo	Analamanga	Madagascar		Africa
+780	KL-16555	Guzmán	Jalisco	Mexico		North
+781	KN-6450	Lagos	Lagos	Nigeria		Africa
+782	SC-20440	Medan	Sumatera Utara	Indonesia		Southeast Asia
+783	HD-14785	Remscheid	North Rhine-Westphalia	Germany		Central
+784	JF-5415	Vryburg	North-West	South Africa		Africa
+785	LT-7110	Gdansk	Pomerania	Poland		EMEA
+786	TS-21205	North Las Vegas	Nevada	United States	89031	West
+787	IL-5100	Sabzevar	Razavi Khorasan	Iran		EMEA
+788	CW-11905	Huntsville	Texas	United States	77340	Central
+789	HG-15025	Altamira	Pará	Brazil		South
+790	SH-19975	Munich	Bavaria	Germany		Central
+791	CM-12445	San Francisco	California	United States	94122	West
+792	TG-11310	Red Deer	Alberta	Canada		Canada
+793	DS-13030	San Francisco	California	United States	94122	West
+794	KH-6690	Burnaby	British Columbia	Canada		Canada
+795	LH-16750	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+796	MG-17650	Seattle	Washington	United States	98103	West
+797	CW-1905	Beirut	Beirut	Lebanon		EMEA
+798	JO-15550	Vallauris	Provence-Alpes-Côte d'Azur	France		Central
+799	AH-195	Waterloo	Ontario	Canada		Canada
+800	SH-10395	Katsina	Katsina	Nigeria		Africa
+801	MC-8100	Cluj-Napoca	Cluj	Romania		EMEA
+802	RR-19525	Lowell	Massachusetts	United States	1852	East
+803	PH-18790	Ijuí	Rio Grande do Sul	Brazil		South
+804	HM-14980	La Ceiba	Atlántida	Honduras		Central
+805	MY-18295	Innsbruck	Tyrol	Austria		Central
+806	DB-13555	Tuxtla Gutiérrez	Chiapas	Mexico		North
+807	LC-17140	Philadelphia	Pennsylvania	United States	19140	East
+808	RA-9885	North York	Ontario	Canada		Canada
+809	SJ-20500	San Francisco	California	United States	94122	West
+810	DW-3480	Kharkiv	Kharkiv	Ukraine		EMEA
+811	PB-8805	Vaughan	Ontario	Canada		Canada
+812	BF-11275	Stockport	England	United Kingdom		North
+813	AC-10615	Baní	Peravia	Dominican Republic		Caribbean
+814	AS-10240	Paris	Ile-de-France	France		Central
+815	EB-14170	Bekasi	Jawa Barat	Indonesia		Southeast Asia
+816	CA-12310	Gold Coast	Queensland	Australia		Oceania
+817	MF-8250	Samarra'	Salah Ad Din	Iraq		EMEA
+818	AH-10030	Saltillo	Coahuila	Mexico		North
+819	AO-10810	Sydney	New South Wales	Australia		Oceania
+820	TS-21085	Brisbane	Queensland	Australia		Oceania
+821	DM-12955	Mesa	Arizona	United States	85204	West
+822	BF-1275	Antananarivo	Analamanga	Madagascar		Africa
+823	ER-3855	Budapest	Budapest	Hungary		EMEA
+824	SJ-10125	Cairo	Al Qahirah	Egypt		Africa
+825	TH-11235	Constantine	Constantine	Algeria		Africa
+826	JR-15700	Valencia	Carabobo	Venezuela		South
+827	RS-9420	Rustenburg	North-West	South Africa		Africa
+828	MS-17830	Laredo	Texas	United States	78041	Central
+829	CA-11965	Fuji	Shizuoka	Japan		North Asia
+830	JH-5820	Port Elizabeth	Eastern Cape	South Africa		Africa
+831	ME-18010	Coslada	Madrid	Spain		South
+832	JP-15460	Basel	Basel-Stadt	Switzerland		Central
+833	CM-12115	Marseille	Provence-Alpes-Côte d'Azur	France		Central
+834	PO-9180	Chisinau	Chisinau	Moldova		EMEA
+835	MO-7500	Kampala	Kampala	Uganda		Africa
+836	TN-21040	Grajaú	Maranhão	Brazil		South
+837	RP-9390	Pretoria	Gauteng	South Africa		Africa
+838	VS-11820	Sofia	Sofiya-Grad	Bulgaria		EMEA
+839	CC-12550	Champigny-sur-Marne	Ile-de-France	France		Central
+840	PS-18760	Cairns	Queensland	Australia		Oceania
+841	BP-11155	London	England	United Kingdom		North
+842	JC-15340	Tlalpan	Distrito Federal	Mexico		North
+843	MC-7275	Cairo	Al Qahirah	Egypt		Africa
+844	HZ-14950	Taiping	Perak	Malaysia		Southeast Asia
+845	NS-8505	Poznan	Greater Poland	Poland		EMEA
+846	AH-585	Qom	Qom	Iran		EMEA
+847	TW-11025	Taraz	Zhambyl	Kazakhstan		EMEA
+848	MM-8055	Makhachkala	Dagestan	Russia		EMEA
+849	MC-7845	Lome	Maritime	Togo		Africa
+850	JK-15640	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+851	FC-14335	Albuquerque	New Mexico	United States	87105	West
+852	KB-16240	Linz	Upper Austria	Austria		Central
+853	DJ-13630	Singapore	Singapore	Singapore		Southeast Asia
+854	MO-17500	Sucre	Chuquisaca	Bolivia		South
+855	DW-3195	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+856	DK-13225	Hamburg	Hamburg	Germany		Central
+857	CG-12040	Yuci	Shanxi	China		North Asia
+858	RS-19870	Laval	Pays de la Loire	France		Central
+859	JK-5205	Rasht	Gilan	Iran		EMEA
+860	IM-15070	Guadalajara	Jalisco	Mexico		North
+861	DR-12880	Managua	Managua	Nicaragua		Central
+862	DV-13465	Jammu	Jammu and Kashmir	India		Central Asia
+863	AJ-10780	Springfield	Virginia	United States	22153	South
+864	AH-690	Bulawayo	Bulawayo	Zimbabwe		Africa
+865	PM-9135	Tehran	Tehran	Iran		EMEA
+866	MF-17665	Berlin	Berlin	Germany		Central
+867	AJ-780	Batna	Batna	Algeria		Africa
+868	NM-18520	Manila	National Capital	Philippines		Southeast Asia
+869	CK-12205	Columbus	Ohio	United States	43229	East
+870	GM-14455	Austin	Texas	United States	78745	Central
+871	JK-15370	Miami	Florida	United States	33180	South
+872	SS-20875	Kendari	Sulawesi Tenggara	Indonesia		Southeast Asia
+873	EC-14050	Chihuahua	Chihuahua	Mexico		North
+874	SC-10680	Maroua	Extreme-Nord	Cameroon		Africa
+875	VW-21775	Huntsville	Texas	United States	77340	Central
+876	PB-19105	Apeldoorn	Gelderland	Netherlands		Central
+877	RM-19375	Houston	Texas	United States	77095	Central
+878	RW-19630	Mexico City	Distrito Federal	Mexico		North
+879	CR-12820	Mixco	Guatemala	Guatemala		Central
+880	AJ-795	Mallawi	Al Minya	Egypt		Africa
+881	BD-11725	San Francisco de Macorís	Duarte	Dominican Republic		Caribbean
+882	SW-20245	Manila	National Capital	Philippines		Southeast Asia
+883	JD-15895	San Salvador	San Salvador	El Salvador		Central
+884	CP-2340	Rabat	Rabat-Salé-Zemmour-Zaer	Morocco		Africa
+885	PB-9210	Roman	Neamt	Romania		EMEA
+886	EM-4065	Surrey	British Columbia	Canada		Canada
+887	JM-15250	Parma	Emilia-Romagna	Italy		South
+888	AR-540	Nairobi	Nairobi	Kenya		Africa
+889	AW-10840	Azcapotzalco	Distrito Federal	Mexico		North
+890	EG-3900	Toamasina	Atsinanana	Madagascar		Africa
+891	HW-14935	Bandung	Jawa Barat	Indonesia		Southeast Asia
+892	PV-18985	Waterlooville	England	United Kingdom		North
+893	BK-1260	Istanbul	Istanbul	Turkey		EMEA
+894	NS-18505	Puebla	Puebla	Mexico		North
+895	TP-21130	Ho Chi Minh City	Ho Chí Minh City	Vietnam		Southeast Asia
+896	PK-19075	Madison	Wisconsin	United States	53711	Central
+897	TS-21430	Reading	Pennsylvania	United States	19601	East
+898	CD-11920	Copiapó	Atacama	Chile		South
+899	AB-60	Drobeta-Turnu Severin	Mehedinti	Romania		EMEA
+900	DK-13090	Huehuetenango	Huehuetenango	Guatemala		Central
+901	AG-10765	Leicester	England	United Kingdom		North
+902	SC-10440	Lagos	Lagos	Nigeria		Africa
+903	EM-3960	Casablanca	Grand Casablanca	Morocco		Africa
+904	GA-14725	Columbia	Missouri	United States	65203	Central
+905	SG-20470	Helsinki	Uusimaa	Finland		North
+906	CH-12070	Jining	Shandong	China		North Asia
+907	EH-13765	Lodi	California	United States	95240	West
+908	LD-6855	Dzhezkazgan	Qaraghandy	Kazakhstan		EMEA
+909	BP-11050	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+910	AC-10420	San Francisco	California	United States	94122	West
+911	LP-7080	Al Fayyum	Al Fayyum	Egypt		Africa
+912	JS-5880	Alexandria	Al Iskandariyah	Egypt		Africa
+913	CR-12580	Ho Chi Minh City	Ho Chí Minh City	Vietnam		Southeast Asia
+914	LL-16840	Woodstock	Georgia	United States	30188	South
+915	SN-20560	Amritsar	Punjab	India		Central Asia
+916	JD-5895	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+917	CS-12175	Lakewood	New Jersey	United States	8701	East
+918	DH-13675	Miami	Florida	United States	33180	South
+919	KM-6375	Lublin	Lublin	Poland		EMEA
+920	SS-10590	Hrodna	Hrodna	Belarus		EMEA
+921	NB-8580	Erzurum	Erzurum	Turkey		EMEA
+922	MA-7995	Nairobi	Nairobi	Kenya		Africa
+923	TA-21385	Olathe	Kansas	United States	66062	Central
+924	BN-11470	Cary	North Carolina	United States	27511	South
+925	JH-15820	Cuscatancingo	San Salvador	El Salvador		Central
+926	CJ-1875	Dar es Salaam	Dar Es Salaam	Tanzania		Africa
+927	DK-2985	Kano	Kano	Nigeria		Africa
+928	BN-1515	Benghazi	Banghazi	Libya		Africa
+929	PT-19090	Houston	Texas	United States	77070	Central
+930	PS-19045	Delgado	San Salvador	El Salvador		Central
+931	NS-8640	Vilnius	Vilnius	Lithuania		EMEA
+932	RB-19570	Manaus	Amazonas	Brazil		South
+933	IM-5055	Loubomo	Niari	Republic of the Congo		Africa
+934	JA-15970	Los Angeles	California	United States	90045	West
+935	RF-19840	San Antonio	Texas	United States	78207	Central
+936	DB-12970	Houston	Texas	United States	77036	Central
+937	BD-1560	Katowice	Silesia	Poland		EMEA
+938	JG-5160	East London	Eastern Cape	South Africa		Africa
+939	SC-10845	Baghdad	Baghdad	Iraq		EMEA
+940	CY-12745	San Antonio	Texas	United States	78207	Central
+941	MW-8235	Cairo	Al Qahirah	Egypt		Africa
+942	AZ-750	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+943	CR-2625	Lagos	Lagos	Nigeria		Africa
+944	SJ-20125	Islamabad	F.C.T.	Pakistan		Central Asia
+945	MS-7770	Tunis	Tunis	Tunisia		Africa
+946	RA-19945	Fiumicino	Lazio	Italy		South
+947	JW-15955	Bremen	Bremen	Germany		Central
+948	TP-21565	Coppell	Texas	United States	75019	Central
+949	LW-7125	Istanbul	Istanbul	Turkey		EMEA
+950	RM-9750	Istanbul	Istanbul	Turkey		EMEA
+951	DK-12835	Arraiján	Panama	Panama		Central
+952	PF-19225	Weimar	Thuringia	Germany		Central
+953	DB-13120	Tampa	Florida	United States	33614	South
+954	JL-15850	Townsville	Queensland	Australia		Oceania
+955	EC-4050	Zanjan	Zanjan	Iran		EMEA
+956	Dl-3600	Kozan	Adana	Turkey		EMEA
+957	NC-8415	Izmir	Izmir	Turkey		EMEA
+958	ES-14020	Zigong	Sichuan	China		North Asia
+959	KD-16495	Nasik	Maharashtra	India		Central Asia
+960	JO-15280	Gisborne	Gisborne	New Zealand		Oceania
+961	KM-16375	Paris	Ile-de-France	France		Central
+962	AI-855	Kahramanmaras	Kahramanmaras	Turkey		EMEA
+963	SC-20230	Hidalgo	Michoacán	Mexico		North
+964	HM-14860	Manila	National Capital	Philippines		Southeast Asia
+965	CS-1860	Casablanca	Grand Casablanca	Morocco		Africa
+966	GR-14560	Mexico City	Distrito Federal	Mexico		North
+967	JE-16165	Perth	Western Australia	Australia		Oceania
+968	RR-9525	North York	Ontario	Canada		Canada
+969	BO-11350	Reims	Champagne-Ardenne	France		Central
+970	PC-8745	Sofia	Sofiya-Grad	Bulgaria		EMEA
+971	JB-5925	Istanbul	Istanbul	Turkey		EMEA
+972	LC-16960	San Diego	California	United States	92037	West
+973	AR-10540	Jodhpur	Rajasthan	India		Central Asia
+974	KC-16675	San Pedro Sula	Cortés	Honduras		Central
+975	JE-5610	Arusha	Arusha	Tanzania		Africa
+976	VB-21745	Madrid	Madrid	Spain		South
+977	RK-19300	Vesoul	Franche-Comté	France		Central
+978	SC-10095	Loum	Littoral	Cameroon		Africa
+979	RA-19285	Puertollano	Castile-La Mancha	Spain		South
+980	SF-20965	Karlsruhe	Baden-Württemberg	Germany		Central
+981	PG-8895	Baghdad	Baghdad	Iraq		EMEA
+982	MG-8205	Ndola	Copperbelt	Zambia		Africa
+983	DJ-3630	Eskisehir	Eskisehir	Turkey		EMEA
+984	NK-8490	Rabat	Rabat-Salé-Zemmour-Zaer	Morocco		Africa
+985	PC-9000	Quebec	Quebec	Canada		Canada
+986	AC-450	Mississauga	Ontario	Canada		Canada
+987	AG-10330	Weifang	Shandong	China		North Asia
+988	TB-11250	Istanbul	Istanbul	Turkey		EMEA
+989	SG-10890	Zanjan	Zanjan	Iran		EMEA
+990	FA-14230	Raleigh	North Carolina	United States	27604	South
+991	CA-12265	Cancún	Quintana Roo	Mexico		North
+992	SC-20305	Adelaide	South Australia	Australia		Oceania
+993	RE-19405	Tengzhou	Shandong	China		North Asia
+994	Co-12640	Seattle	Washington	United States	98105	West
+995	JE-15715	Madurai	Tamil Nadu	India		Central Asia
+996	VW-11775	Istanbul	Istanbul	Turkey		EMEA
+997	CK-2760	Arusha	Arusha	Tanzania		Africa
+998	NF-8475	Calgary	Alberta	Canada		Canada
+999	MP-17965	Middletown	Connecticut	United States	6457	East
+1000	KC-16540	Seattle	Washington	United States	98115	West
+1001	EG-13900	Chesapeake	Virginia	United States	23320	South
+1002	NP-8700	Istanbul	Istanbul	Turkey		EMEA
+1003	EB-3840	Kharkiv	Kharkiv	Ukraine		EMEA
+1004	MK-8160	Mary	Mary	Turkmenistan		EMEA
+1005	AB-10165	Leipzig	Saxony	Germany		Central
+1006	AD-10180	Buenos Aires	Buenos Aires	Argentina		South
+1007	IG-15085	San Salvador	San Salvador	El Salvador		Central
+1008	CK-2205	Taizz	Ta'izz	Yemen		EMEA
+1009	CL-12700	Lons-le-Saunier	Franche-Comté	France		Central
+1010	BE-11410	Sydney	New South Wales	Australia		Oceania
+1011	ML-7395	Budapest	Budapest	Hungary		EMEA
+1012	LC-16870	San Francisco	California	United States	94109	West
+1013	GH-4410	Rasht	Gilan	Iran		EMEA
+1014	JC-15775	Waterlooville	England	United Kingdom		North
+1015	TB-11400	Kankan	Kankan	Guinea		Africa
+1016	AG-765	Mersin	Mersin	Turkey		EMEA
+1017	HW-4935	Shiraz	Fars	Iran		EMEA
+1018	AH-210	Alexandria	Al Iskandariyah	Egypt		Africa
+1019	MZ-17335	Palermo	Sicily	Italy		South
+1020	KA-6525	Dniprodzerzhyns'k	Dnipropetrovs'k	Ukraine		EMEA
+1021	MA-17995	Karlsruhe	Baden-Württemberg	Germany		Central
+1022	CR-12730	Buenos Aires	Buenos Aires	Argentina		South
+1023	MG-18145	Philadelphia	Pennsylvania	United States	19134	East
+1024	MH-7455	Varna	Varna	Bulgaria		EMEA
+1025	AS-10225	Mejicanos	San Salvador	El Salvador		Central
+1026	LH-7155	Mississauga	Ontario	Canada		Canada
+1027	JC-16105	Durham	North Carolina	United States	27707	South
+1028	JW-6075	El Jadida	Doukkala-Abda	Morocco		Africa
+1029	EM-14095	Garza García	Nuevo León	Mexico		North
+1030	CK-12595	Santo Domingo	Santo Domingo	Dominican Republic		Caribbean
+1031	BN-11515	Piura	Piura	Peru		South
+1032	DK-2895	Baghdad	Baghdad	Iraq		EMEA
+1033	LS-17200	Rancagua	O'Higgins	Chile		South
+1034	JE-15745	Surabaya	Jawa Timur	Indonesia		Southeast Asia
+1035	PW-19240	San Francisco	California	United States	94110	West
+1036	MG-17695	Armenia	Quindío	Colombia		South
+1037	DK-3225	Luanda	Luanda	Angola		Africa
+1038	PS-18970	Caluire-et-Cuire	Rhône-Alpes	France		Central
+1039	JL-15505	Lahore	Punjab	Pakistan		Central Asia
+1040	TC-21295	Villeneuve-sur-Lot	Aquitaine	France		Central
+1041	LH-6750	Kampala	Kampala	Uganda		Africa
+1042	CS-2505	Kitwe	Copperbelt	Zambia		Africa
+1043	RF-9840	Riyadh	Ar Riyad	Saudi Arabia		EMEA
+1044	SS-10140	Harare	Harare	Zimbabwe		Africa
+1045	CC-12100	Guasave	Sinaloa	Mexico		North
+1046	CC-12475	Culiacán	Sinaloa	Mexico		North
+1047	CC-12145	Pimpri	Maharashtra	India		Central Asia
+1048	PS-8760	Batman	Batman	Turkey		EMEA
+1049	DN-3690	Chitungwiza	Harare	Zimbabwe		Africa
+1050	AR-10825	Grigny	Ile-de-France	France		Central
+1051	RB-9570	Bulawayo	Bulawayo	Zimbabwe		Africa
+1052	PF-9165	Johannesburg	Gauteng	South Africa		Africa
+1053	MH-7290	Antananarivo	Analamanga	Madagascar		Africa
+1054	CS-12355	Roswell	Georgia	United States	30076	South
+1055	LP-17080	Coatzacoalcos	Veracruz	Mexico		North
+1056	ZC-21910	Paris	Ile-de-France	France		Central
+1057	MS-17980	Springfield	Missouri	United States	65807	Central
+1058	MH-8025	Birjand	South Khorasan	Iran		EMEA
+1059	RH-19555	Tallahassee	Florida	United States	32303	South
+1060	Co-2640	Cairo	Al Qahirah	Egypt		Africa
+1061	EM-4140	Nairobi	Nairobi	Kenya		Africa
+1062	JE-15475	Dundee	Scotland	United Kingdom		North
+1063	GZ-14545	Denpasar	Bali	Indonesia		Southeast Asia
+1064	BB-11545	Torreón	Coahuila	Mexico		North
+1065	TG-11640	Dar es Salaam	Dar Es Salaam	Tanzania		Africa
+1066	NH-8610	North York	Ontario	Canada		Canada
+1067	SP-10650	Funtua	Katsina	Nigeria		Africa
+1068	SK-19990	Tegucigalpa	Francisco Morazán	Honduras		Central
+1069	LS-6945	Cankaya	Ankara	Turkey		EMEA
+1070	MY-8295	Tel Aviv	Tel Aviv	Israel		EMEA
+1071	MW-18220	Philadelphia	Pennsylvania	United States	19140	East
+1072	EK-13795	Emden	Lower Saxony	Germany		Central
+1073	HG-14965	Bagneux	Ile-de-France	France		Central
+1074	AY-555	Lagos	Lagos	Nigeria		Africa
+1075	CA-12055	Houston	Texas	United States	77036	Central
+1076	TB-21190	Allahabad	Uttar Pradesh	India		Central Asia
+1077	MK-7905	Gdynia	Pomerania	Poland		EMEA
+1078	MC-7575	Pretoria	Gauteng	South Africa		Africa
+1079	BS-1755	Aydin	Aydin	Turkey		EMEA
+1080	CC-12685	Mumbai	Maharashtra	India		Central Asia
+1081	SV-10815	Bolu	Bolu	Turkey		EMEA
+1082	CM-2190	Gyor	Gyor	Hungary		EMEA
+1083	JD-16150	London	England	United Kingdom		North
+1084	AB-10105	Tegucigalpa	Francisco Morazán	Honduras		Central
+1085	KT-6480	Mahajanga	Boeny	Madagascar		Africa
+1086	MC-17590	Metz	Lorraine	France		Central
+1087	JE-6165	Cape Town	Western Cape	South Africa		Africa
+1088	KL-6555	Istanbul	Istanbul	Turkey		EMEA
+1089	DM-2955	Abidjan	Lagunes	Cote d'Ivoire		Africa
+1090	IG-5085	Mosul	Ninawa	Iraq		EMEA
+1091	MC-7635	Cairo	Al Qahirah	Egypt		Africa
+1092	TS-21505	Ciudad del Carmen	Campeche	Mexico		North
+1093	AB-15	Mufulira	Copperbelt	Zambia		Africa
+1094	ON-8715	Harare	Harare	Zimbabwe		Africa
+1095	TT-21220	Houston	Texas	United States	77041	Central
+1096	KD-16615	Tlaquepaque	Jalisco	Mexico		North
+1097	DV-3465	Karbala'	Karbala'	Iraq		EMEA
+1098	KF-16285	Managua	Managua	Nicaragua		Central
+1099	JC-15385	Santiago de Cuba	Santiago de Cuba	Cuba		Caribbean
+1100	SS-10875	Ordu	Ordu	Turkey		EMEA
+1101	CV-12805	Floridablanca	Santander	Colombia		South
+1102	DO-13645	Bridgetown	Saint Michael	Barbados		Caribbean
+1103	SJ-20215	Pasadena	California	United States	91104	West
+1104	LW-16990	Santiago de los Caballeros	Santiago	Dominican Republic		Caribbean
+1105	NS-18640	Mixco	Guatemala	Guatemala		Central
+1106	BP-1095	Al Hillah	Babil	Iraq		EMEA
+1107	EM-4095	Halifax	Nova Scotia	Canada		Canada
+1108	AZ-10750	Annemasse	Rhône-Alpes	France		Central
+1109	BS-1365	Antananarivo	Analamanga	Madagascar		Africa
+1110	CS-2175	Hrodna	Hrodna	Belarus		EMEA
+1111	CM-2160	Cairo	Al Qahirah	Egypt		Africa
+1112	GH-4425	Calgary	Alberta	Canada		Canada
+1113	CS-1845	Abha	'Asir	Saudi Arabia		EMEA
+1114	JD-6015	Almaty	Almaty City	Kazakhstan		EMEA
+1115	TS-11610	Chisinau	Chisinau	Moldova		EMEA
+1116	SW-10350	Balti	Balti	Moldova		EMEA
+1117	MO-7950	Adana	Adana	Turkey		EMEA
+1118	SG-10605	Piatra-Neamt	Neamt	Romania		EMEA
+1119	ED-3885	Gusau	Zamfara	Nigeria		Africa
+1120	KN-6390	Pretoria	Gauteng	South Africa		Africa
+1121	BF-1170	Kaspiysk	Dagestan	Russia		EMEA
+1122	SL-10155	Vancouver	British Columbia	Canada		Canada
+1123	KW-16435	Austin	Texas	United States	78745	Central
+1124	AJ-10960	Paris	Ile-de-France	France		Central
+1125	BE-11335	Kingswood	England	United Kingdom		North
+1126	SG-20080	Newcastle	New South Wales	Australia		Oceania
+1127	DB-3405	Drobeta-Turnu Severin	Mehedinti	Romania		EMEA
+1128	EB-14110	Depok	Yogyakarta	Indonesia		Southeast Asia
+1129	BT-1485	Pemba	Cabo Delgado	Mozambique		Africa
+1130	MS-7530	Antananarivo	Analamanga	Madagascar		Africa
+1131	AA-480	Toronto	Ontario	Canada		Canada
+1132	KH-6630	Bamako	Bamako	Mali		Africa
+1133	DR-2880	Bulawayo	Bulawayo	Zimbabwe		Africa
+1134	SV-10365	Budapest	Budapest	Hungary		EMEA
+1135	RH-9600	Vancouver	British Columbia	Canada		Canada
+1136	CA-2265	Blagoveshchensk	Bashkortostan	Russia		EMEA
+1137	BD-1605	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1138	BG-11740	Bayeux	Paraíba	Brazil		South
+1139	LA-6780	Ankara	Ankara	Turkey		EMEA
+1140	GP-4740	Windhoek	Khomas	Namibia		Africa
+1141	DJ-3510	Lusaka	Lusaka	Zambia		Africa
+1142	SG-10080	Dar es Salaam	Dar Es Salaam	Tanzania		Africa
+1143	NC-18535	Gateshead	England	United Kingdom		North
+1144	PA-9060	Owo	Ondo	Nigeria		Africa
+1145	EB-4170	Rabat	Rabat-Salé-Zemmour-Zaer	Morocco		Africa
+1146	LF-7185	Lubumbashi	Katanga	Democratic Republic of the Congo		Africa
+1147	PG-8820	Astrakhan'	Astrakhan'	Russia		EMEA
+1148	PO-19180	Utrecht	Utrecht	Netherlands		Central
+1149	Dp-3240	Kismaayo	Jubbada Hoose	Somalia		Africa
+1150	CB-12025	Jakarta	Jakarta	Indonesia		Southeast Asia
+1151	CD-1920	Basra	Al Basrah	Iraq		EMEA
+1152	TT-11220	Lublin	Lublin	Poland		EMEA
+1153	MC-7590	Makhachkala	Dagestan	Russia		EMEA
+1154	RP-9270	Bishkek	Bishkek	Kyrgyzstan		EMEA
+1155	JR-16210	Glasgow	Scotland	United Kingdom		North
+1156	NR-8550	Hrodna	Hrodna	Belarus		EMEA
+1157	AB-600	Bytom	Silesia	Poland		EMEA
+1158	SS-10410	Bialystok	Podlaskie	Poland		EMEA
+1159	JR-5670	Usti nad Labem	Usti nad Labem	Czech Republic		EMEA
+1160	DB-3555	Ankara	Ankara	Turkey		EMEA
+1161	NZ-8565	Baghdad	Baghdad	Iraq		EMEA
+1162	SC-20575	El Progreso	Yoro	Honduras		Central
+1163	EM-3810	Chitungwiza	Harare	Zimbabwe		Africa
+1164	ME-7320	Casablanca	Grand Casablanca	Morocco		Africa
+1165	SA-10830	Bandirma	Balikesir	Turkey		EMEA
+1166	DC-13285	Santiago de Cuba	Santiago de Cuba	Cuba		Caribbean
+1167	CJ-11875	Guangzhou	Guangdong	China		North Asia
+1168	BP-1185	Malatya	Malatya	Turkey		EMEA
+1169	CT-1995	Donets'k	Donetsk	Ukraine		EMEA
+1170	LW-6825	Kharkiv	Kharkiv	Ukraine		EMEA
+1171	CC-2100	Budapest	Budapest	Hungary		EMEA
+1172	DG-3300	Lagos	Lagos	Nigeria		Africa
+1173	PK-8910	Fasa	Fars	Iran		EMEA
+1174	DB-3615	Lagos	Lagos	Nigeria		Africa
+1175	VF-11715	Gaziantep	Gaziantep	Turkey		EMEA
+1176	AS-135	Edmonton	Alberta	Canada		Canada
+1177	JD-6060	Gaziantep	Gaziantep	Turkey		EMEA
+1178	NP-18670	Puebla	Puebla	Mexico		North
+1179	NP-8325	Zabol	Sistan Va Baluchestan	Iran		EMEA
+1180	FM-4215	Istanbul	Istanbul	Turkey		EMEA
+1181	MP-7470	Annaba	Annaba	Algeria		Africa
+1182	BF-11020	Fatehpur	Rajasthan	India		Central Asia
+1183	KB-6240	Bandar-e Anzali	Gilan	Iran		EMEA
+1184	FM-14380	Detroit	Michigan	United States	48227	Central
+1185	EM-14065	Quito	Pichincha	Ecuador		South
+1186	RW-19690	Chelmsford	England	United Kingdom		North
+1187	NP-8685	Pretoria	Gauteng	South Africa		Africa
+1188	AS-10090	Springfield	Missouri	United States	65807	Central
+1189	KB-16405	Tijuana	Baja California	Mexico		North
+1190	MV-8190	Algiers	Alger	Algeria		Africa
+1191	SM-10905	Koidu	Eastern	Sierra Leone		Africa
+1192	KB-16600	Columbus	Indiana	United States	47201	Central
+1193	VT-11700	Zanjan	Zanjan	Iran		EMEA
+1194	GB-4575	Chisinau	Chisinau	Moldova		EMEA
+1195	GZ-4545	Basra	Al Basrah	Iraq		EMEA
+1196	AH-120	Cairo	Al Qahirah	Egypt		Africa
+1197	PJ-8835	Sale	Rabat-Salé-Zemmour-Zaer	Morocco		Africa
+1198	BS-1380	Baghdad	Baghdad	Iraq		EMEA
+1199	KC-6255	Tanta	Al Gharbiyah	Egypt		Africa
+1200	LS-7230	Tbilisi	Tbilisi	Georgia		EMEA
+1201	SM-10005	Johannesburg	Gauteng	South Africa		Africa
+1202	JE-5745	Ankara	Ankara	Turkey		EMEA
+1203	MO-7800	Benin City	Edo	Nigeria		Africa
+1204	CH-2070	Adana	Adana	Turkey		EMEA
+1205	JW-5220	Al Hillah	Babil	Iraq		EMEA
+1206	AS-10135	Deventer	Overijssel	Netherlands		Central
+1207	TZ-11580	Bryansk	Bryansk	Russia		EMEA
+1208	SP-10920	Qena	Qina	Egypt		Africa
+1209	AR-10570	Coyoacán	Distrito Federal	Mexico		North
+1210	VM-11835	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1211	EN-3780	Taizz	Ta'izz	Yemen		EMEA
+1212	BP-1290	Zagreb	Grad Zagreb	Croatia		EMEA
+1213	LM-7065	Constantine	Constantine	Algeria		Africa
+1214	ES-4020	Lagos	Lagos	Nigeria		Africa
+1215	GT-4635	Monrovia	Montserrado	Liberia		Africa
+1216	LC-6960	Cairo	Al Qahirah	Egypt		Africa
+1217	CD-11980	Managua	Managua	Nicaragua		Central
+1218	SG-10470	Tbilisi	Tbilisi	Georgia		EMEA
+1219	DV-13045	Las Rozas de Madrid	Madrid	Spain		South
+1220	RB-19645	Poços de Caldas	Minas Gerais	Brazil		South
+1221	EH-4185	Vienna	Vienna	Austria		EMEA
+1222	SC-10050	Baghdad	Baghdad	Iraq		EMEA
+1223	MA-7560	Mamak	Ankara	Turkey		EMEA
+1224	AM-705	Kumasi	Ashanti	Ghana		Africa
+1225	KD-6270	Izmir	Izmir	Turkey		EMEA
+1226	SH-20635	Heilbronn	Baden-Württemberg	Germany		Central
+1227	DB-3660	Istanbul	Istanbul	Turkey		EMEA
+1228	EB-3975	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1229	NL-8310	Uskudar	Istanbul	Turkey		EMEA
+1230	JW-15220	Manado	Sulawesi Utara	Indonesia		Southeast Asia
+1231	KB-6315	Baghdad	Baghdad	Iraq		EMEA
+1232	LC-16885	Troy	Ohio	United States	45373	East
+1233	FC-4335	Baghdad	Baghdad	Iraq		EMEA
+1234	SK-9990	Vienna	Vienna	Austria		EMEA
+1235	BD-1620	Durban	Kwazulu-natal	South Africa		Africa
+1236	CS-12505	San Francisco	California	United States	94122	West
+1237	BW-1065	Kalemie	Katanga	Democratic Republic of the Congo		Africa
+1238	ML-8265	Libreville	Estuaire	Gabon		Africa
+1239	VG-11805	Baghdad	Baghdad	Iraq		EMEA
+1240	MM-8280	Brest	Brest	Belarus		EMEA
+1241	LE-16810	Newark	Delaware	United States	19711	East
+1242	DH-3675	Brampton	Ontario	Canada		Canada
+1243	JF-5565	Gaziantep	Gaziantep	Turkey		EMEA
+1244	LS-7245	Atakpame	Plateaux	Togo		Africa
+1245	MZ-7515	Montréal	Quebec	Canada		Canada
+1246	LS-6975	Mersin	Mersin	Turkey		EMEA
+1247	SC-10800	Kermanshah	Kermanshah	Iran		EMEA
+1248	MG-8145	Lubumbashi	Katanga	Democratic Republic of the Congo		Africa
+1249	CS-2400	Ashdod	Southern	Israel		EMEA
+1250	LH-6900	Luanda	Luanda	Angola		Africa
+1251	AS-240	Jeddah	Makkah	Saudi Arabia		EMEA
+1252	VG-11790	Cairo	Al Qahirah	Egypt		Africa
+1253	JS-6030	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1254	AS-225	Saveh	Markazi	Iran		EMEA
+1255	JM-5535	Jerusalem	Jerusalem	Israel		EMEA
+1256	RW-9540	Tamale	Northern	Ghana		Africa
+1257	MZ-7335	Riyadh	Ar Riyad	Saudi Arabia		EMEA
+1258	SF-10965	Cairo	Al Qahirah	Egypt		Africa
+1259	CC-2685	Casablanca	Grand Casablanca	Morocco		Africa
+1260	AH-10120	Aurora	Illinois	United States	60505	Central
+1261	BD-1320	Baghdad	Baghdad	Iraq		EMEA
+1262	CB-2025	Mashhad	Razavi Khorasan	Iran		EMEA
+1263	SB-10290	Adana	Adana	Turkey		EMEA
+1264	EJ-13720	Tijuana	Baja California	Mexico		North
+1265	KH-6510	Niamey	Niamey	Niger		Africa
+1266	RD-9930	Mashhad	Razavi Khorasan	Iran		EMEA
+1267	CM-11935	Quimper	Brittany	France		Central
+1268	KC-6540	Hurghada	Al Bahr Al Ahmar	Egypt		Africa
+1269	CS-2250	Istanbul	Istanbul	Turkey		EMEA
+1270	RS-9765	Westonaria	Gauteng	South Africa		Africa
+1271	NB-18580	Ermont	Ile-de-France	France		Central
+1272	BT-1395	Tetouan	Tanger-Tétouan	Morocco		Africa
+1273	PL-8925	Taza	Taza-Al Hoceima-Taounate	Morocco		Africa
+1274	HK-4890	London	Ontario	Canada		Canada
+1275	PK-9075	Istanbul	Istanbul	Turkey		EMEA
+1276	MG-18205	Pune	Maharashtra	India		Central Asia
+1277	CR-2820	Karliova	Bingol	Turkey		EMEA
+1278	JK-6090	Khartoum	Khartoum	Sudan		Africa
+1279	SG-20890	Amarillo	Texas	United States	79109	Central
+1280	CC-2220	Toronto	Ontario	Canada		Canada
+1281	TC-21475	Invercargill	Southland	New Zealand		Oceania
+1282	DJ-13510	Bangalore	Karnataka	India		Central Asia
+1283	KS-6300	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1284	CD-2280	Mubi	Adamawa	Nigeria		Africa
+1285	JB-6000	Potchefstroom	North-West	South Africa		Africa
+1286	CR-2730	Bishkek	Bishkek	Kyrgyzstan		EMEA
+1287	AS-285	Ivanovo	Ivanovo	Russia		EMEA
+1288	SJ-10500	Ankara	Ankara	Turkey		EMEA
+1289	BF-1020	Casablanca	Grand Casablanca	Morocco		Africa
+1290	BD-1725	Baghdad	Baghdad	Iraq		EMEA
+1291	RM-19750	Jakarta	Jakarta	Indonesia		Southeast Asia
+1292	PO-9195	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1293	AG-330	Lagos	Lagos	Nigeria		Africa
+1294	BB-1545	Sale	Rabat-Salé-Zemmour-Zaer	Morocco		Africa
+1295	LP-7095	St. Catharines	Ontario	Canada		Canada
+1296	JE-5475	Alexandria	Al Iskandariyah	Egypt		Africa
+1297	AH-30	Gdansk	Pomerania	Poland		EMEA
+1298	BS-1665	Yazd	Yazd	Iran		EMEA
+1299	TC-11535	Lagos	Lagos	Nigeria		Africa
+1300	BE-1455	Zagreb	Grad Zagreb	Croatia		EMEA
+1301	PJ-9015	Tangier	Tanger-Tétouan	Morocco		Africa
+1302	HM-4980	Izmir	Izmir	Turkey		EMEA
+1303	GA-4725	Horlivka	Donetsk	Ukraine		EMEA
+1304	CM-1830	Medina	Al Madinah	Saudi Arabia		EMEA
+1305	JM-5265	Antsiranana	Diana	Madagascar		Africa
+1306	MC-7425	Alexandria	Al Iskandariyah	Egypt		Africa
+1307	SC-10305	Lagos	Lagos	Nigeria		Africa
+1308	SR-10425	Zaria	Kaduna	Nigeria		Africa
+1309	JJ-5445	Istanbul	Istanbul	Turkey		EMEA
+1310	EK-3795	Casablanca	Grand Casablanca	Morocco		Africa
+1311	TP-11130	Alexandria	Al Iskandariyah	Egypt		Africa
+1312	AR-345	Constantine	Constantine	Algeria		Africa
+1313	RD-9810	Cape Town	Western Cape	South Africa		Africa
+1314	MJ-7740	Abidjan	Lagunes	Cote d'Ivoire		Africa
+1315	MB-8085	Budapest	Budapest	Hungary		EMEA
+1316	MP-7965	Hurghada	Al Bahr Al Ahmar	Egypt		Africa
+1317	BD-1770	Cairo	Al Qahirah	Egypt		Africa
+1318	DC-2850	North York	Ontario	Canada		Canada
+1319	EP-3915	Bata	Litoral	Equatorial Guinea		Africa
+1320	BB-990	Mosul	Ninawa	Iraq		EMEA
+1321	ME-8010	Bandundu	Bandundu	Democratic Republic of the Congo		Africa
+1322	DC-3285	Bursa	Bursa	Turkey		EMEA
+1323	XP-11865	Rabat	Rabat-Salé-Zemmour-Zaer	Morocco		Africa
+1324	TT-11460	Batman	Batman	Turkey		EMEA
+1325	JF-5295	Bishkek	Bishkek	Kyrgyzstan		EMEA
+1326	HP-4815	Lublin	Lublin	Poland		EMEA
+1327	BM-1575	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1328	AG-495	Vienna	Vienna	Austria		EMEA
+1329	HR-14830	Sydney	New South Wales	Australia		Oceania
+1330	JA-5970	Bursa	Bursa	Turkey		EMEA
+1331	BT-11530	Sheffield	England	United Kingdom		North
+1332	CG-2040	Lagos	Lagos	Nigeria		Africa
+1333	JC-5385	Miass	Chelyabinsk	Russia		EMEA
+1334	AW-930	Alexandria	Al Iskandariyah	Egypt		Africa
+1335	NP-8670	Kharkiv	Kharkiv	Ukraine		EMEA
+1336	MH-7620	Opole	Opole	Poland		EMEA
+1337	LS-16945	Vienna	Vienna	Austria		Central
+1338	TB-11355	Ankara	Ankara	Turkey		EMEA
+1339	RH-9495	Dakar	Dakar	Senegal		Africa
+1340	BT-1680	Kirovohrad	Kirovohrad	Ukraine		EMEA
+1341	TB-11190	Meknes	Meknès-Tafilalet	Morocco		Africa
+1342	MD-7350	Usak	Usak	Turkey		EMEA
+1343	LM-17065	Auburn	New York	United States	13021	East
+1344	FP-4320	Alexandria	Al Iskandariyah	Egypt		Africa
+1345	JF-5355	Ulan Bator	Ulaanbaatar	Mongolia		EMEA
+1346	DB-13360	Vienna	Vienna	Austria		Central
+1347	RF-9345	Riyadh	Ar Riyad	Saudi Arabia		EMEA
+1348	JM-5655	Saskatoon	Saskatchewan	Canada		Canada
+1349	JK-5640	Arbil	Arbil	Iraq		EMEA
+1350	AB-150	Ahvaz	Khuzestan	Iran		EMEA
+1351	HD-4785	Lubumbashi	Katanga	Democratic Republic of the Congo		Africa
+1352	KH-6330	Ibadan	Oyo	Nigeria		Africa
+1353	EJ-3720	Kisangani	Orientale	Democratic Republic of the Congo		Africa
+1354	GM-4500	Benguela	Benguela	Angola		Africa
+1355	RA-9945	Kano	Kano	Nigeria		Africa
+1356	HJ-4875	Jeddah	Makkah	Saudi Arabia		EMEA
+1357	HH-5010	Donets'k	Donetsk	Ukraine		EMEA
+1358	MS-7710	Kryvyy Rih	Dnipropetrovs'k	Ukraine		EMEA
+1359	BE-1335	Zlatoust	Chelyabinsk	Russia		EMEA
+1360	BO-1425	Zielona Gora	Lubusz	Poland		EMEA
+1361	NC-8340	Baku	Baki	Azerbaijan		EMEA
+1362	HL-5040	Istanbul	Istanbul	Turkey		EMEA
+1363	EB-4110	Jos	Plateau	Nigeria		Africa
+1364	DL-2865	Shiraz	Fars	Iran		EMEA
+1365	DR-2940	Mersin	Mersin	Turkey		EMEA
+1366	CG-2520	Buzau	Buzau	Romania		EMEA
+1367	PW-9030	Osh	Osh	Kyrgyzstan		EMEA
+1368	JS-5685	Durban	Kwazulu-natal	South Africa		Africa
+1369	CA-1965	Sincan	Ankara	Turkey		EMEA
+1370	RD-9660	Ankara	Ankara	Turkey		EMEA
+1371	DD-3570	Likasi	Katanga	Democratic Republic of the Congo		Africa
+1372	KH-6360	Brest	Brest	Belarus		EMEA
+1373	LB-6735	Beira	Sofala	Mozambique		Africa
+1374	JJ-5760	Bamako	Bamako	Mali		Africa
+1375	PH-8790	Irkutsk	Irkutsk	Russia		EMEA
+1376	ML-7755	Mogadishu	Banaadir	Somalia		Africa
+1377	SS-20515	Palermo	Sicily	Italy		South
+1378	CC-2610	Medina	Al Madinah	Saudi Arabia		EMEA
+1379	TB-11175	Wadi as Sir	'Amman	Jordan		EMEA
+1380	JG-5310	Antalya	Antalya	Turkey		EMEA
+1381	VP-11760	Kaluga	Kaluga	Russia		EMEA
+1382	TC-11145	Baghdad	Baghdad	Iraq		EMEA
+1383	PR-8880	Calabar	Cross River	Nigeria		Africa
+1384	KB-6405	Ashdod	Southern	Israel		EMEA
+1385	GZ-4470	Brasov	Brasov	Romania		EMEA
+1386	NG-8430	Dayr az Zawr	Dayr Az Zawr	Syria		EMEA
+1387	LT-6765	Baghdad	Baghdad	Iraq		EMEA
+1388	DB-2970	Tbilisi	Tbilisi	Georgia		EMEA
+1389	BG-1035	Panevezys	Panevezys	Lithuania		EMEA
+1390	SC-10725	Mogadishu	Banaadir	Somalia		Africa
+1391	GT-4710	Miass	Chelyabinsk	Russia		EMEA
+1392	CK-2325	Epworth	Harare	Zimbabwe		Africa
+1393	CD-1980	Khorramshahr	Khuzestan	Iran		EMEA
+1394	CR-2580	Cherkasy	Cherkasy	Ukraine		EMEA
+1395	AR-405	Dnipropetrovs'k	Dnipropetrovs'k	Ukraine		EMEA
+1396	GD-4590	Kaduna	Kaduna	Nigeria		Africa
+1397	FO-4305	Johannesburg	Gauteng	South Africa		Africa
+1398	RE-9405	Benguela	Benguela	Angola		Africa
+1399	MR-7545	Mbandaka	Equateur	Democratic Republic of the Congo		Africa
+1400	MG-7680	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1401	JH-6180	Kano	Kano	Nigeria		Africa
+1402	TB-11595	Baghdad	Baghdad	Iraq		EMEA
+1403	KL-6645	Soweto	Gauteng	South Africa		Africa
+1404	KE-6420	Oran	Oran	Algeria		Africa
+1405	FA-4230	Abuja	Abuja Capital Territory	Nigeria		Africa
+1406	JK-5370	Sofia	Sofiya-Grad	Bulgaria		EMEA
+1407	KT-6465	Kryvyy Rih	Dnipropetrovs'k	Ukraine		EMEA
+1408	RC-9960	Cairo	Al Qahirah	Egypt		Africa
+1409	DL-3315	Thies Nones	Thies	Senegal		Africa
+1410	TH-11100	Sofia	Sofiya-Grad	Bulgaria		EMEA
+1411	KD-6345	Nairobi	Nairobi	Kenya		Africa
+1412	GM-4455	Kismaayo	Jubbada Hoose	Somalia		Africa
+1413	GH-4485	Lagos	Lagos	Nigeria		Africa
+1414	JB-5400	Abidjan	Lagunes	Cote d'Ivoire		Africa
+1415	MN-7935	Gaziantep	Gaziantep	Turkey		EMEA
+1416	RB-9795	Chisinau	Chisinau	Moldova		EMEA
+1417	SD-10485	Bursa	Bursa	Turkey		EMEA
+1418	HE-4800	Angarsk	Irkutsk	Russia		EMEA
+1419	RB-9645	Barika	Batna	Algeria		Africa
+1420	GM-4695	Ad Diwaniyah	Al Qadisiyah	Iraq		EMEA
+1421	RD-9480	Alexandria	Al Iskandariyah	Egypt		Africa
+1422	FH-14350	Pantin	Ile-de-France	France		Central
+1423	DO-3645	Gdynia	Pomerania	Poland		EMEA
+1424	CS-2130	Garoua	Nord	Cameroon		Africa
+1425	VB-11745	Chisinau	Chisinau	Moldova		EMEA
+1426	PB-9105	Mamak	Ankara	Turkey		EMEA
+1427	BO-1350	Lagos	Lagos	Nigeria		Africa
+1428	JD-6150	Mashhad	Razavi Khorasan	Iran		EMEA
+1429	JM-5865	Kano	Kano	Nigeria		Africa
+1430	AR-570	Shiraz	Fars	Iran		EMEA
+1431	FG-14260	Vienna	Vienna	Austria		Central
+1432	VD-11670	Baghdad	Baghdad	Iraq		EMEA
+1433	AB-165	Niamey	Niamey	Niger		Africa
+1434	DM-3015	Kerman	Kerman	Iran		EMEA
+1435	KM-6660	Hargeysa	Woqooyi Galbeed	Somalia		Africa
+1436	JM-5250	Bur Sudan	Red Sea	Sudan		Africa
+1437	TS-11655	Hrodna	Hrodna	Belarus		EMEA
+1438	BH-1710	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1439	JO-5145	Plzen	Plzen	Czech Republic		EMEA
+1440	AD-180	Istanbul	Istanbul	Turkey		EMEA
+1441	RO-9780	Beni Suef	Bani Suwayf	Egypt		Africa
+1442	DL-2925	Qaraghandy	Qaraghandy	Kazakhstan		EMEA
+1443	EM-4200	Sale	Rabat-Salé-Zemmour-Zaer	Morocco		Africa
+1444	FM-4290	Gombe	Gombe	Nigeria		Africa
+1445	JP-5520	Budapest	Budapest	Hungary		EMEA
+1446	LC-7050	Casablanca	Grand Casablanca	Morocco		Africa
+1447	AB-255	Zahedan	Sistan Va Baluchestan	Iran		EMEA
+1448	AR-825	Riyadh	Ar Riyad	Saudi Arabia		EMEA
+1449	HA-4920	Oktyabr'skiy	Bashkortostan	Russia		EMEA
+1450	MP-8175	Al Mubarraz	Ash Sharqiyah	Saudi Arabia		EMEA
+1451	PB-9150	Lagos	Lagos	Nigeria		Africa
+1452	SP-10620	Almaty	Almaty City	Kazakhstan		EMEA
+1453	TM-11010	Kulob	Khatlon	Tajikistan		EMEA
+1454	OT-8730	Qostanay	Qostanay	Kazakhstan		EMEA
+1455	TM-11490	Ahvaz	Khuzestan	Iran		EMEA
+1456	AC-660	Cairo	Al Qahirah	Egypt		Africa
+1457	TH-11115	Dar es Salaam	Dar Es Salaam	Tanzania		Africa
+1458	ND-8370	Sevastopol	Sevastopol'	Ukraine		EMEA
+1459	LH-7020	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1460	RD-9720	Baghdad	Baghdad	Iraq		EMEA
+1461	SW-10275	Manisa	Manisa	Turkey		EMEA
+1462	MH-8115	Kumasi	Ashanti	Ghana		Africa
+1463	MM-7920	An Nasiriyah	Dhi Qar	Iraq		EMEA
+1464	VP-11730	Istanbul	Istanbul	Turkey		EMEA
+1465	RK-9300	Berdychiv	Zhytomyr	Ukraine		EMEA
+1466	DW-3585	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1467	PT-9090	Bingol	Bingol	Turkey		EMEA
+1468	EH-4005	Yaroslavl'	Yaroslavl'	Russia		EMEA
+1469	TD-10995	Mississauga	Ontario	Canada		Canada
+1470	RB-9330	Casablanca	Grand Casablanca	Morocco		Africa
+1471	RF-9735	Tel Aviv	Tel Aviv	Israel		EMEA
+1472	RD-9585	Accra	Greater Accra	Ghana		Africa
+1473	TS-11340	Izmir	Izmir	Turkey		EMEA
+1474	KW-6435	Cairo	Al Qahirah	Egypt		Africa
+1475	BF-1080	Riyadh	Ar Riyad	Saudi Arabia		EMEA
+1476	PS-9045	Uskudar	Istanbul	Turkey		EMEA
+1477	HR-4830	Guelma	Guelma	Algeria		Africa
+1478	JC-5775	Abidjan	Lagunes	Cote d'Ivoire		Africa
+1479	BF-1215	Kenitra	Gharb-Chrarda-Béni Hssen	Morocco		Africa
+1480	JP-6135	Ufa	Bashkortostan	Russia		EMEA
+1481	SB-10170	Beykoz	Istanbul	Turkey		EMEA
+1482	PF-9120	Mbuji-mayi	Kasai-Oriental	Democratic Republic of the Congo		Africa
+1483	GB-4530	Sale	Rabat-Salé-Zemmour-Zaer	Morocco		Africa
+1484	DB-3120	Montréal	Quebec	Canada		Canada
+1485	MB-7305	Yaroslavl'	Yaroslavl'	Russia		EMEA
+1486	SW-10245	Riyadh	Ar Riyad	Saudi Arabia		EMEA
+1487	SC-10260	Istanbul	Istanbul	Turkey		EMEA
+1488	SE-10110	Braila	Braila	Romania		EMEA
+1489	KF-6285	Targu Mures	Mures	Romania		EMEA
+1490	JR-6210	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1491	TN-11040	Casablanca	Grand Casablanca	Morocco		Africa
+1492	DW-3540	Ibadan	Oyo	Nigeria		Africa
+1493	GG-4650	Ivanovo	Ivanovo	Russia		EMEA
+1494	MS-7365	Randfontein	Gauteng	South Africa		Africa
+1495	MT-7815	Arak	Markazi	Iran		EMEA
+1496	AG-300	Lagos	Lagos	Nigeria		Africa
+1497	DJ-3420	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1498	BM-1785	Dar es Salaam	Dar Es Salaam	Tanzania		Africa
+1499	AG-900	Lagos	Lagos	Nigeria		Africa
+1500	MS-7830	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1501	SU-10665	Jinja	Jinja	Uganda		Africa
+1502	CS-1950	Gatineau	Quebec	Canada		Canada
+1503	FH-4275	Taza	Taza-Al Hoceima-Taounate	Morocco		Africa
+1504	CL-2565	Saida	Saida	Algeria		Africa
+1505	AM-360	Ulan Bator	Ulaanbaatar	Mongolia		EMEA
+1506	CM-1935	Ibadan	Oyo	Nigeria		Africa
+1507	PV-8985	Kikwit	Bandundu	Democratic Republic of the Congo		Africa
+1508	BN-1470	Cape Town	Western Cape	South Africa		Africa
+1509	TB-11055	Qostanay	Qostanay	Kazakhstan		EMEA
+1510	SC-10695	Botshabelo	Free State	South Africa		Africa
+1511	FM-4380	Antalya	Antalya	Turkey		EMEA
+1512	CM-2235	Lagos	Lagos	Nigeria		Africa
+1513	SR-10740	Blagoveshchensk	Amur	Russia		EMEA
+1514	ST-10530	Casablanca	Grand Casablanca	Morocco		Africa
+1515	DS-3180	Algiers	Alger	Algeria		Africa
+1516	AF-885	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1517	IM-5070	Shiraz	Fars	Iran		EMEA
+1518	CM-2115	Dar es Salaam	Dar Es Salaam	Tanzania		Africa
+1519	AS-45	Bagcilar	Istanbul	Turkey		EMEA
+1520	LO-7170	Cape Town	Western Cape	South Africa		Africa
+1521	SF-10200	Lagos	Lagos	Nigeria		Africa
+1522	CL-2700	Hurghada	Al Bahr Al Ahmar	Egypt		Africa
+1523	JM-5580	Mogadishu	Banaadir	Somalia		Africa
+1524	CB-2535	Izmir	Izmir	Turkey		EMEA
+1525	DB-3060	Istanbul	Istanbul	Turkey		EMEA
+1526	JL-5505	Mombasa	Coast	Kenya		Africa
+1527	JK-5325	Warri	Delta	Nigeria		Africa
+1528	QJ-9255	Izmir	Izmir	Turkey		EMEA
+1529	EA-4035	Konya	Konya	Turkey		EMEA
+1530	SC-10770	Bursa	Bursa	Turkey		EMEA
+1531	TT-11070	Algiers	Alger	Algeria		Africa
+1532	DB-3270	Bishkek	Bishkek	Kyrgyzstan		EMEA
+1533	LS-7200	Bursa	Bursa	Turkey		EMEA
+1534	SP-10545	Cairo	Al Qahirah	Egypt		Africa
+1535	SN-10710	Port Elizabeth	Eastern Cape	South Africa		Africa
+1536	SH-9975	Shiraz	Fars	Iran		EMEA
+1537	TC-11295	Dakar	Dakar	Senegal		Africa
+1538	SM-10320	Koumra	Mandoul	Chad		Africa
+1539	ML-7410	Eskisehir	Eskisehir	Turkey		EMEA
+1540	KD-6495	Lodz	Lodz	Poland		EMEA
+1541	ZC-11910	Maiduguri	Borno	Nigeria		Africa
+1542	LL-6840	Qom	Qom	Iran		EMEA
+1543	SC-10575	Baghdad	Baghdad	Iraq		EMEA
+1544	RA-9915	Lome	Maritime	Togo		Africa
+1545	TB-11625	Kinshasa	Kinshasa	Democratic Republic of the Congo		Africa
+1546	DP-3165	Man	Dix-Huit Montagnes	Cote d'Ivoire		Africa
+1547	EB-3705	Benghazi	Banghazi	Libya		Africa
+1548	ML-8040	Abidjan	Lagunes	Cote d'Ivoire		Africa
+1549	AB-105	Toronto	Ontario	Canada		Canada
+1550	DP-3390	Kigali	Kigali	Rwanda		Africa
+1551	JG-5805	East London	Eastern Cape	South Africa		Africa
+1552	CS-2490	Springs	Gauteng	South Africa		Africa
+1553	CJ-2010	Meknes	Meknès-Tafilalet	Morocco		Africa
+1554	SH-10635	Chisinau	Chisinau	Moldova		EMEA
+1555	BG-1740	Kigali	Kigali	Rwanda		Africa
+1556	KM-6720	Basra	Al Basrah	Iraq		EMEA
+1557	SV-10935	Minna	Niger	Nigeria		Africa
+1558	CA-2055	Whitby	Ontario	Canada		Canada
+1559	TS-11160	Accra	Greater Accra	Ghana		Africa
+1560	CC-2430	Quchan	Razavi Khorasan	Iran		EMEA
+1561	JW-5955	Istanbul	Istanbul	Turkey		EMEA
+1562	AP-915	Cairo	Al Qahirah	Egypt		Africa
+1563	DK-3090	Ufa	Bashkortostan	Russia		EMEA
+1564	JL-5235	Krasnyy Luch	Luhans'k	Ukraine		EMEA
+1565	DF-3135	Sarkand	Almaty	Kazakhstan		EMEA
+1566	HA-4905	Hamadan	Hamadan	Iran		EMEA
+1567	MD-7860	Ankara	Ankara	Turkey		EMEA
+1568	VM-11685	Cairo	Al Qahirah	Egypt		Africa
+1569	TA-11385	Ibadan	Oyo	Nigeria		Africa
+1570	TS-11505	Kano	Kano	Nigeria		Africa
+1571	SZ-10035	Baraki	Tipaza	Algeria		Africa
+1572	DL-3495	Benin City	Edo	Nigeria		Africa
+1573	RB-9360	Nairobi	Nairobi	Kenya		Africa
+1574	GM-4680	Izmir	Izmir	Turkey		EMEA
+1575	KB-6585	Mosul	Ninawa	Iraq		EMEA
+1576	PS-8970	Casablanca	Grand Casablanca	Morocco		Africa
+1577	RC-9825	Budapest	Budapest	Hungary		EMEA
+1578	KD-6615	Beni Mellal	Tadla-Azilal	Morocco		Africa
+1579	DL-3330	Bamenda	Nord-Ouest	Cameroon		Africa
+1580	TS-11205	Istanbul	Istanbul	Turkey		EMEA
+1581	MG-7650	Roodepoort	Gauteng	South Africa		Africa
+1582	MG-7875	Arusha	Arusha	Tanzania		Africa
+1583	MG-7890	Istanbul	Istanbul	Turkey		EMEA
+1584	AO-810	North York	Ontario	Canada		Canada
+1585	CK-2595	Asyut	Asyut	Egypt		Africa
+1586	MS-7980	Enugu	Enugu	Nigeria		Africa
+1587	BF-1005	Niamey	Niamey	Niger		Africa
+1588	KM-6225	Lagos	Lagos	Nigeria		Africa
+1589	NM-8520	Termez	Surxondaryo	Uzbekistan		EMEA
+1590	BD-1500	Lagos	Lagos	Nigeria		Africa
