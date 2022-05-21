@@ -1,0 +1,626 @@
+<?xml version="1.0"?>
+<DataProfile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/sqlserver/2008/DataDebugger/">
+  <ProfileVersion>1.0</ProfileVersion>
+  <DataSources>
+    <DtsDataSource ID="{8D8A739E-BA3C-4740-84CA-E546E9D7A836}" Name="Customer_Address_Profiling">
+      <DtsConnectionManagerID>Customer_Address_Profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{E1737748-4AA1-47F0-8818-8FC554F69A36}" Name="CustomerAddress_profiling">
+      <DtsConnectionManagerID>CustomerAddress_profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{24CB4313-3639-4C4A-A675-295231B2D5A4}" Name="CustomerDetails_Profiling">
+      <DtsConnectionManagerID>CustomerDetails_Profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{1E395452-A9D6-42F8-8ECF-573AB4A3B978}" Name="CustomerDetails_profilling">
+      <DtsConnectionManagerID>CustomerDetails_profilling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{F42FBA0C-B795-4609-AE05-45FCF4CF4504}" Name="DESKTOP-M01CQ04.superstore_Staging">
+      <DtsConnectionManagerID>DESKTOP-M01CQ04.superstore_Staging</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{86220CA2-D523-42F0-BFEB-D91F21717D3F}" Name="Order_profiling">
+      <DtsConnectionManagerID>Order_profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{9483F8E3-E3A7-4498-B182-537D249FF5CC}" Name="Order_profiling 1">
+      <DtsConnectionManagerID>Order_profiling 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{3B18A0CD-75BC-4AB1-B17C-683A7655A3C8}" Name="Product_profiling">
+      <DtsConnectionManagerID>Product_profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{3A24045C-CEF0-4E0A-8848-B3C82D72B4A8}" Name="Product_profiling 1">
+      <DtsConnectionManagerID>Product_profiling 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{358D804F-4A6D-4E11-A35C-D53CC6CEE01E}" Name="ProductCategory_profiling">
+      <DtsConnectionManagerID>ProductCategory_profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{2B18B96D-2D97-40B0-B20B-018909CB30E2}" Name="ProductCategory_profiling 1">
+      <DtsConnectionManagerID>ProductCategory_profiling 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{EE9A8ED2-69A0-455A-9951-4B6C059D1C50}" Name="ProductSubCategory_profiling">
+      <DtsConnectionManagerID>ProductSubCategory_profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+  </DataSources>
+  <DataProfileInput>
+    <ProfileMode>Exact</ProfileMode>
+    <Timeout>0</Timeout>
+    <Requests>
+      <ColumnNullRatioProfileRequest ID="NullRatioReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table Schema="dbo" Table="ProductStaging" />
+        <Column IsWildCard="true" />
+      </ColumnNullRatioProfileRequest>
+      <ColumnStatisticsProfileRequest ID="StatisticsReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table Schema="dbo" Table="ProductStaging" />
+        <Column IsWildCard="true" />
+      </ColumnStatisticsProfileRequest>
+      <ColumnLengthDistributionProfileRequest ID="LengthDistReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table Schema="dbo" Table="ProductStaging" />
+        <Column IsWildCard="true" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+      </ColumnLengthDistributionProfileRequest>
+      <ColumnValueDistributionProfileRequest ID="ValueDistReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table Schema="dbo" Table="ProductStaging" />
+        <Column IsWildCard="true" />
+        <Option>FrequentValues</Option>
+        <FrequentValueThreshold>0.001</FrequentValueThreshold>
+      </ColumnValueDistributionProfileRequest>
+      <CandidateKeyProfileRequest ID="KeyReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table Schema="dbo" Table="ProductStaging" />
+        <KeyColumns>
+          <Column IsWildCard="true" />
+        </KeyColumns>
+        <ThresholdSetting>Specified</ThresholdSetting>
+        <KeyStrengthThreshold>0.95</KeyStrengthThreshold>
+        <VerifyOutputInFastMode>false</VerifyOutputInFastMode>
+        <MaxNumberOfViolations>100</MaxNumberOfViolations>
+      </CandidateKeyProfileRequest>
+    </Requests>
+  </DataProfileInput>
+  <DataProfileOutput>
+    <Profiles>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq" IsExact="true">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductStaging" RowCount="10292" />
+        <Column Name="Product_ID" SqlDbType="NVarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq" IsExact="true">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductStaging" RowCount="10292" />
+        <Column Name="Product_Name" SqlDbType="NVarChar" MaxLength="150" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq" IsExact="true">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductStaging" RowCount="10292" />
+        <Column Name="Sub_Category" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnStatisticsProfile IsExact="true" ProfileRequestID="StatisticsReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductStaging" RowCount="10292" />
+        <Column Name="Sub_Category" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <MinValue>1</MinValue>
+        <MaxValue>17</MaxValue>
+        <Mean>8.76389428682472</Mean>
+        <StdDev>4.86474926164156</StdDev>
+      </ColumnStatisticsProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq" IsExact="true">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductStaging" RowCount="10292" />
+        <Column Name="Product_ID" SqlDbType="NVarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>15</MinLength>
+        <MaxLength>16</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>15</Length>
+            <Count>8357</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>1935</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq" IsExact="true">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductStaging" RowCount="10292" />
+        <Column Name="Product_Name" SqlDbType="NVarChar" MaxLength="150" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>7</MinLength>
+        <MaxLength>127</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>23</Length>
+            <Count>362</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>46</Length>
+            <Count>69</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>69</Length>
+            <Count>13</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>92</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>29</Length>
+            <Count>538</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>75</Length>
+            <Count>7</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>15</Length>
+            <Count>30</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>9</Length>
+            <Count>94</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>109</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>89</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>52</Length>
+            <Count>71</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>95</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>72</Length>
+            <Count>7</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>66</Length>
+            <Count>10</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>78</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>32</Length>
+            <Count>446</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>26</Length>
+            <Count>560</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>12</Length>
+            <Count>8</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>35</Length>
+            <Count>318</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>63</Length>
+            <Count>14</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>43</Length>
+            <Count>105</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>55</Length>
+            <Count>21</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>98</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>49</Length>
+            <Count>54</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>67</Length>
+            <Count>9</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>27</Length>
+            <Count>633</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>21</Length>
+            <Count>306</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>127</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>58</Length>
+            <Count>26</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>81</Length>
+            <Count>4</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>64</Length>
+            <Count>22</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>38</Length>
+            <Count>202</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>87</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>44</Length>
+            <Count>117</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>7</Length>
+            <Count>48</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>50</Length>
+            <Count>98</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>24</Length>
+            <Count>480</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>47</Length>
+            <Count>48</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>70</Length>
+            <Count>9</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>30</Length>
+            <Count>619</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>119</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>84</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>10</Length>
+            <Count>152</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>61</Length>
+            <Count>8</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>41</Length>
+            <Count>133</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>90</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>65</Length>
+            <Count>13</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>79</Length>
+            <Count>3</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>19</Length>
+            <Count>140</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>73</Length>
+            <Count>10</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>25</Length>
+            <Count>506</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>36</Length>
+            <Count>269</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>85</Length>
+            <Count>3</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>62</Length>
+            <Count>21</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>13</Length>
+            <Count>14</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>42</Length>
+            <Count>116</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>56</Length>
+            <Count>30</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>99</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>22</Length>
+            <Count>294</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>76</Length>
+            <Count>6</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>59</Length>
+            <Count>18</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>82</Length>
+            <Count>5</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>33</Length>
+            <Count>450</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>39</Length>
+            <Count>156</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>38</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>88</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>53</Length>
+            <Count>27</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>45</Length>
+            <Count>72</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>48</Length>
+            <Count>60</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>71</Length>
+            <Count>7</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>77</Length>
+            <Count>4</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>62</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>31</Length>
+            <Count>478</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>60</Length>
+            <Count>23</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>83</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>40</Length>
+            <Count>152</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>34</Length>
+            <Count>319</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>11</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>54</Length>
+            <Count>32</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>97</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>20</Length>
+            <Count>169</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>68</Length>
+            <Count>11</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>80</Length>
+            <Count>4</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>28</Length>
+            <Count>633</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>74</Length>
+            <Count>6</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>57</Length>
+            <Count>21</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>14</Length>
+            <Count>10</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>37</Length>
+            <Count>285</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>8</Length>
+            <Count>9</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>51</Length>
+            <Count>34</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>100</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <CandidateKeyProfile IsExact="true" ProfileRequestID="KeyReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductStaging" RowCount="10292" />
+        <KeyColumns>
+          <Column Name="Product_ID" SqlDbType="NVarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        </KeyColumns>
+        <IsExactKey>true</IsExactKey>
+      </CandidateKeyProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductStaging" RowCount="10292" />
+        <Column Name="Product_ID" SqlDbType="NVarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>10292</NumberOfDistinctValues>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductStaging" RowCount="10292" />
+        <Column Name="Product_Name" SqlDbType="NVarChar" MaxLength="150" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>3681</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>Staples</Value>
+            <Count>46</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Stockwell Paper Clips, Assorted Sizes</Value>
+            <Count>16</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Acco Index Tab, Clear</Value>
+            <Count>12</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Bush Stackable Bookrack, Pine</Value>
+            <Count>11</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Stockwell Thumb Tacks, Metal</Value>
+            <Count>11</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductStaging" RowCount="10292" />
+        <Column Name="Sub_Category" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>17</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>15</Value>
+            <Count>366</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>9</Value>
+            <Count>664</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3</Value>
+            <Count>781</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>12</Value>
+            <Count>585</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>6</Value>
+            <Count>559</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>7</Value>
+            <Count>558</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>1</Value>
+            <Count>648</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>10</Value>
+            <Count>742</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>4</Value>
+            <Count>684</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>13</Value>
+            <Count>619</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>5</Value>
+            <Count>520</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>16</Value>
+            <Count>692</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2</Value>
+            <Count>548</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>17</Value>
+            <Count>571</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>11</Value>
+            <Count>583</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>14</Value>
+            <Count>499</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>8</Value>
+            <Count>673</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+    </Profiles>
+  </DataProfileOutput>
+</DataProfile>

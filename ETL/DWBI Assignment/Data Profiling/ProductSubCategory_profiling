@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<DataProfile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/sqlserver/2008/DataDebugger/">
+  <ProfileVersion>1.0</ProfileVersion>
+  <DataSources>
+    <DtsDataSource ID="{8D8A739E-BA3C-4740-84CA-E546E9D7A836}" Name="Customer_Address_Profiling">
+      <DtsConnectionManagerID>Customer_Address_Profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{E1737748-4AA1-47F0-8818-8FC554F69A36}" Name="CustomerAddress_profiling">
+      <DtsConnectionManagerID>CustomerAddress_profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{24CB4313-3639-4C4A-A675-295231B2D5A4}" Name="CustomerDetails_Profiling">
+      <DtsConnectionManagerID>CustomerDetails_Profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{1E395452-A9D6-42F8-8ECF-573AB4A3B978}" Name="CustomerDetails_profilling">
+      <DtsConnectionManagerID>CustomerDetails_profilling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{F42FBA0C-B795-4609-AE05-45FCF4CF4504}" Name="DESKTOP-M01CQ04.superstore_Staging">
+      <DtsConnectionManagerID>DESKTOP-M01CQ04.superstore_Staging</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{86220CA2-D523-42F0-BFEB-D91F21717D3F}" Name="Order_profiling">
+      <DtsConnectionManagerID>Order_profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{9483F8E3-E3A7-4498-B182-537D249FF5CC}" Name="Order_profiling 1">
+      <DtsConnectionManagerID>Order_profiling 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{3B18A0CD-75BC-4AB1-B17C-683A7655A3C8}" Name="Product_profiling">
+      <DtsConnectionManagerID>Product_profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{3A24045C-CEF0-4E0A-8848-B3C82D72B4A8}" Name="Product_profiling 1">
+      <DtsConnectionManagerID>Product_profiling 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{358D804F-4A6D-4E11-A35C-D53CC6CEE01E}" Name="ProductCategory_profiling">
+      <DtsConnectionManagerID>ProductCategory_profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{2B18B96D-2D97-40B0-B20B-018909CB30E2}" Name="ProductCategory_profiling 1">
+      <DtsConnectionManagerID>ProductCategory_profiling 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{EE9A8ED2-69A0-455A-9951-4B6C059D1C50}" Name="ProductSubCategory_profiling">
+      <DtsConnectionManagerID>ProductSubCategory_profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+  </DataSources>
+  <DataProfileInput>
+    <ProfileMode>Exact</ProfileMode>
+    <Timeout>0</Timeout>
+    <Requests>
+      <ColumnNullRatioProfileRequest ID="NullRatioReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table Schema="dbo" Table="ProductSubCatergory" />
+        <Column IsWildCard="true" />
+      </ColumnNullRatioProfileRequest>
+      <ColumnStatisticsProfileRequest ID="StatisticsReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table Schema="dbo" Table="ProductSubCatergory" />
+        <Column IsWildCard="true" />
+      </ColumnStatisticsProfileRequest>
+      <ColumnLengthDistributionProfileRequest ID="LengthDistReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table Schema="dbo" Table="ProductSubCatergory" />
+        <Column IsWildCard="true" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+      </ColumnLengthDistributionProfileRequest>
+      <ColumnValueDistributionProfileRequest ID="ValueDistReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table Schema="dbo" Table="ProductSubCatergory" />
+        <Column IsWildCard="true" />
+        <Option>FrequentValues</Option>
+        <FrequentValueThreshold>0.001</FrequentValueThreshold>
+      </ColumnValueDistributionProfileRequest>
+      <CandidateKeyProfileRequest ID="KeyReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table Schema="dbo" Table="ProductSubCatergory" />
+        <KeyColumns>
+          <Column IsWildCard="true" />
+        </KeyColumns>
+        <ThresholdSetting>Specified</ThresholdSetting>
+        <KeyStrengthThreshold>0.95</KeyStrengthThreshold>
+        <VerifyOutputInFastMode>false</VerifyOutputInFastMode>
+        <MaxNumberOfViolations>100</MaxNumberOfViolations>
+      </CandidateKeyProfileRequest>
+    </Requests>
+  </DataProfileInput>
+  <DataProfileOutput>
+    <Profiles>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq" IsExact="true">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductSubCatergory" RowCount="17" />
+        <Column Name="Sub_CategoryID" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq" IsExact="true">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductSubCatergory" RowCount="17" />
+        <Column Name="Sub_Category" SqlDbType="NVarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq" IsExact="true">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductSubCatergory" RowCount="17" />
+        <Column Name="CategoryID" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnStatisticsProfile IsExact="true" ProfileRequestID="StatisticsReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductSubCatergory" RowCount="17" />
+        <Column Name="Sub_CategoryID" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <MinValue>1</MinValue>
+        <MaxValue>17</MaxValue>
+        <Mean>9</Mean>
+        <StdDev>4.89897948556636</StdDev>
+      </ColumnStatisticsProfile>
+      <ColumnStatisticsProfile IsExact="true" ProfileRequestID="StatisticsReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductSubCatergory" RowCount="17" />
+        <Column Name="CategoryID" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <MinValue>1</MinValue>
+        <MaxValue>3</MaxValue>
+        <Mean>1.70588235294118</Mean>
+        <StdDev>0.823529411764706</StdDev>
+      </ColumnStatisticsProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq" IsExact="true">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductSubCatergory" RowCount="17" />
+        <Column Name="Sub_Category" SqlDbType="NVarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>3</MinLength>
+        <MaxLength>11</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>3</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>4</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>7</Length>
+            <Count>3</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>8</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>9</Length>
+            <Count>3</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>10</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>11</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <CandidateKeyProfile IsExact="true" ProfileRequestID="KeyReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductSubCatergory" RowCount="17" />
+        <KeyColumns>
+          <Column Name="Sub_CategoryID" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        </KeyColumns>
+        <IsExactKey>true</IsExactKey>
+      </CandidateKeyProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductSubCatergory" RowCount="17" />
+        <Column Name="Sub_CategoryID" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>17</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>1</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>4</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>5</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>6</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>7</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>8</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>9</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>10</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>11</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>12</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>13</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>14</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>15</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>16</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>17</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <CandidateKeyProfile IsExact="true" ProfileRequestID="KeyReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductSubCatergory" RowCount="17" />
+        <KeyColumns>
+          <Column Name="Sub_Category" SqlDbType="NVarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        </KeyColumns>
+        <IsExactKey>true</IsExactKey>
+      </CandidateKeyProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductSubCatergory" RowCount="17" />
+        <Column Name="Sub_Category" SqlDbType="NVarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>17</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>Accessories</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Appliances</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Art</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Binders</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Bookcases</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Chairs</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Copiers</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Envelopes</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Fasteners</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Furnishings</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Labels</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Machines</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Paper</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Phones</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Storage</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Supplies</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Tables</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq">
+        <DataSourceID>{F42FBA0C-B795-4609-AE05-45FCF4CF4504}</DataSourceID>
+        <Table DataSource="DESKTOP-M01CQ04" Database="superstore_Staging" Schema="dbo" Table="ProductSubCatergory" RowCount="17" />
+        <Column Name="CategoryID" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>3</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>1</Value>
+            <Count>9</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2</Value>
+            <Count>4</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3</Value>
+            <Count>4</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+    </Profiles>
+  </DataProfileOutput>
+</DataProfile>
